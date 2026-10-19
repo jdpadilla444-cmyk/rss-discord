@@ -1,0 +1,38 @@
+[
+  {
+    "name": "The Guardian · Internacional",
+    "url": "https://www.theguardian.com/international/rss",
+    "webhook_env": "WEBHOOK_GUARDIAN",
+    "color": "#052962"
+  },
+  {
+    "name": "La República",
+    "url": "https://www.larepublica.co/rss",
+    "webhook_env": "WEBHOOK_LAREPUBLICA",
+    "color": "#E4002B"
+  },
+  {
+    "name": "El Cato",
+    "url": "https://www.elcato.org/rss.xml",
+    "webhook_env": "WEBHOOK_ELCATO",
+    "color": "#F5C518"
+  },
+  {
+    "name": "Letras Libres · Política",
+    "url": "https://letraslibres.com/politica/feed/",
+    "webhook_env": "WEBHOOK_LETRASLIBRES_POLITICA",
+    "color": "#8E1B1B"
+  },
+  {
+    "name": "Letras Libres · Historia",
+    "url": "https://letraslibres.com/historia/feed/",
+    "webhook_env": "WEBHOOK_LETRASLIBRES_HISTORIA",
+    "color": "#B5651D"
+  },
+  {
+    "name": "Razón Pública",
+    "url": "https://razonpublica.com/feed/",
+    "webhook_env": "WEBHOOK_RAZONPUBLICA",
+    "color": "#2A9D8F"
+  }
+]
