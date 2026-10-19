@@ -120,12 +120,18 @@ def fetch(url: str):
         timeout=30,
     )
     r.raise_for_status()
-    return feedparser.parse(r.content)
+    parsed = feedparser.parse(r.content)
+    parsed["_http"] = (
+        f"HTTP {r.status_code}, {r.headers.get('Content-Type', '?')}, {len(r.content)} bytes"
+    )
+    parsed["_head"] = re.sub(r"\s+", " ", r.text[:200])
+    return parsed
 
 
 def main():
     feeds = json.loads(FEEDS_FILE.read_text(encoding="utf-8"))
     state = json.loads(STATE_FILE.read_text(encoding="utf-8")) if STATE_FILE.exists() else {}
+    test = os.environ.get("TEST_MODE") == "1"  # modo prueba: no toca seen.json
 
     for feed in feeds:
         name, url = feed["name"], feed["url"]
@@ -143,8 +149,20 @@ def main():
         entries = [e for e in parsed.entries if entry_id(e)]
         ids = [entry_id(e) for e in entries]
 
+        if not entries:
+            print(f"  ! el feed no devolvió artículos ({parsed.get('_http', '')})")
+            if parsed.get("bozo"):
+                print(f"    aviso del lector: {parsed.get('bozo_exception')}")
+            print(f"    la web respondió: {parsed.get('_head', '')}")
+            continue
+
+        if test:
+            ok = post(webhook, build_embed(feed, entries[0]))
+            print("  ✓ prueba enviada" if ok else "  ! la prueba falló")
+            continue
+
         # Primera vez que vemos este feed: guardamos lo existente sin publicar nada
-        if url not in state:
+        if not state.get(url):
             state[url] = ids[:MAX_SEEN]
             print(f"  primera ejecución: {len(ids)} artículos marcados como vistos")
             continue
@@ -162,7 +180,8 @@ def main():
 
         state[url] = (state[url] + done)[-MAX_SEEN:]
 
-    STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
+    if not test:
+        STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 if __name__ == "__main__":
