@@ -24,9 +24,9 @@
     "color": "#8E1B1B"
   },
   {
-    "name": "Razón Pública",
-    "url": "https://razonpublica.com/feed/",
-    "webhook_env": "WEBHOOK_RAZONPUBLICA",
-    "color": "#2A9D8F"
+    "name": "Cerosetenta",
+    "url": "https://cerosetenta.uniandes.edu.co/feed/",
+    "webhook_env": "WEBHOOK_CEROSETENTA",
+    "color": "#D90429"
   }
 ]
