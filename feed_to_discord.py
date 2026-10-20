@@ -92,17 +92,27 @@ def entry_keys(entry):
 
 
 def build_embed(feed: dict, entry) -> dict:
-    title = truncate(clean(entry.get("title", "(sin título)")), 250)
+    title = clean(entry.get("title", "(sin título)"))
+    # Google News añade " - Nombre del medio" al título: lo quitamos
+    src = (entry.get("source") or {}).get("title")
+    if src and title.endswith(f" - {src}"):
+        title = title[: -len(f" - {src}")].rstrip()
+    title = truncate(title, 250)
     raw = entry.get("summary") or (entry.get("content") or [{}])[0].get("value", "")
     footer = feed["name"]
     if entry.get("author"):
         footer += f" · {clean(entry['author'])}"
+    desc = truncate(clean(raw), DESC_LEN)
+    # Si la descripción solo repite el título (típico de Google News), se omite
+    if desc.lower().startswith(title.lower()[:60]) and len(desc) <= len(title) + 60:
+        desc = ""
     embed = {
         "title": title,
-        "description": truncate(clean(raw), DESC_LEN),
         "color": int(feed.get("color", "#F5C518").lstrip("#"), 16),
         "footer": {"text": truncate(footer, 200)},
     }
+    if desc:
+        embed["description"] = desc
     if is_http(entry.get("link")):
         embed["url"] = entry["link"]
     parsed = entry.get("published_parsed") or entry.get("updated_parsed")
@@ -110,8 +120,9 @@ def build_embed(feed: dict, entry) -> dict:
         embed["timestamp"] = datetime.fromtimestamp(
             calendar.timegm(parsed), tz=timezone.utc
         ).isoformat()
-    image = find_image(entry)
-    if image:
+    # Si el artículo no trae imagen, se usa la imagen fija del feed (por ejemplo, su logo)
+    image = find_image(entry) or feed.get("fallback_image")
+    if is_http(image):
         embed["image"] = {"url": image}
     return embed
 
@@ -172,10 +183,17 @@ def main():
         if not webhook:
             print(f"  ! falta el secreto {feed['webhook_env']}, se omite")
             continue
-        try:
-            parsed = fetch(url)
-        except Exception as exc:
-            print(f"  ! no se pudo leer el feed: {exc}")
+        parsed = None
+        for attempt in range(3):
+            try:
+                parsed = fetch(url)
+                break
+            except Exception as exc:
+                print(f"  ! intento {attempt + 1}/3 falló: {exc}")
+                if attempt < 2:
+                    time.sleep(5 * (attempt + 1))
+        if parsed is None:
+            print("  ! no se pudo leer el feed, se reintentará en la próxima ejecución")
             continue
 
         entries = [e for e in parsed.entries if entry_id(e)]

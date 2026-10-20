@@ -28,5 +28,12 @@
     "url": "https://cerosetenta.uniandes.edu.co/feed/",
     "webhook_env": "WEBHOOK_CEROSETENTA",
     "color": "#D90429"
+  },
+  {
+    "name": "Nueva Sociedad",
+    "url": "https://news.google.com/rss/search?q=site:nuso.org&hl=es-419&gl=CO&ceid=CO:es-419",
+    "webhook_env": "WEBHOOK_NUEVASOCIEDAD",
+    "color": "#C1121F",
+    "max_per_run": 2
   }
 ]
