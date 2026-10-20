@@ -39,6 +39,7 @@ jobs:
           WEBHOOK_ELCATO: ${{ secrets.WEBHOOK_ELCATO }}
           WEBHOOK_LETRASLIBRES: ${{ secrets.WEBHOOK_LETRASLIBRES }}
           WEBHOOK_CEROSETENTA: ${{ secrets.WEBHOOK_CEROSETENTA }}
+          WEBHOOK_NUEVASOCIEDAD: ${{ secrets.WEBHOOK_NUEVASOCIEDAD }}
           
           
       - name: Guardar estado
