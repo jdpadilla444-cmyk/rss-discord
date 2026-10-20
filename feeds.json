@@ -21,7 +21,8 @@
     "name": "Letras Libres",
     "url": "https://letraslibres.com/feed/",
     "webhook_env": "WEBHOOK_LETRASLIBRES",
-    "color": "#8E1B1B"
+    "color": "#8E1B1B",
+    "fallback_image": "https://raw.githubusercontent.com/jdpadilla444-cmyk/rss-discord/main/letraslibres-logo.png"
   },
   {
     "name": "Cerosetenta",
