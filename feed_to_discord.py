@@ -8,6 +8,7 @@ import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import feedparser
 import requests
@@ -16,12 +17,15 @@ ROOT = Path(__file__).parent
 FEEDS_FILE = ROOT / "feeds.json"
 STATE_FILE = ROOT / "seen.json"
 
-UA = "Mozilla/5.0 (compatible; DiscordRSSBot/1.0)"
-MAX_PER_RUN = 5     # máximo de artículos publicados por feed en cada ejecución
-MAX_SEEN = 300      # cuántos IDs recordar por feed
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+MAX_PER_RUN = 3     # por defecto; se puede cambiar por feed con "max_per_run" en feeds.json
+MAX_SEEN = 600      # cuántas claves (id + enlace) recordar por feed
 DESC_LEN = 350      # largo máximo de la descripción en el embed
 
 TAG_RE = re.compile(r"<[^>]+>")
+ALT_RE = re.compile(r"""<link[^>]+type=["']application/(?:rss|atom)\+xml["'][^>]*>""", re.I)
+HREF_RE = re.compile(r"""href=["']([^"']+)["']""", re.I)
 IMG_RE = re.compile(r"""<img[^>]+src=["']([^"']+)["']""", re.I)
 
 
@@ -71,6 +75,22 @@ def entry_id(entry):
     return entry.get("id") or entry.get("link") or entry.get("title")
 
 
+def norm_link(link):
+    """Enlace sin #ancla ni parámetros de rastreo, para detectar repetidos."""
+    if not link:
+        return None
+    p = urlsplit(link.strip())
+    q = [(k, v) for k, v in parse_qsl(p.query)
+         if not k.lower().startswith("utm_") and k.lower() not in ("fbclid", "gclid")]
+    return urlunsplit((p.scheme.lower(), p.netloc.lower(), p.path.rstrip("/"), urlencode(q), ""))
+
+
+def entry_keys(entry):
+    """Un artículo se considera visto si coincide su id O su enlace."""
+    keys = [entry.get("id"), norm_link(entry.get("link")), entry.get("title") if not entry.get("link") and not entry.get("id") else None]
+    return [k for k in keys if k]
+
+
 def build_embed(feed: dict, entry) -> dict:
     title = truncate(clean(entry.get("title", "(sin título)")), 250)
     raw = entry.get("summary") or (entry.get("content") or [{}])[0].get("value", "")
@@ -116,7 +136,11 @@ def post(webhook: str, embed: dict) -> bool:
 def fetch(url: str):
     r = requests.get(
         url,
-        headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, */*"},
+        headers={
+            "User-Agent": UA,
+            "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+            "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        },
         timeout=30,
     )
     r.raise_for_status()
@@ -125,6 +149,14 @@ def fetch(url: str):
         f"HTTP {r.status_code}, {r.headers.get('Content-Type', '?')}, {len(r.content)} bytes"
     )
     parsed["_head"] = re.sub(r"\s+", " ", r.text[:200])
+    title = re.search(r"<title[^>]*>(.*?)</title>", r.text, re.S | re.I)
+    parsed["_title"] = clean(title.group(1)) if title else ""
+    alts = []
+    for tag in ALT_RE.findall(r.text):
+        m = HREF_RE.search(tag)
+        if m:
+            alts.append(m.group(1))
+    parsed["_alt"] = alts[:6]
     return parsed
 
 
@@ -147,13 +179,17 @@ def main():
             continue
 
         entries = [e for e in parsed.entries if entry_id(e)]
-        ids = [entry_id(e) for e in entries]
 
         if not entries:
             print(f"  ! el feed no devolvió artículos ({parsed.get('_http', '')})")
             if parsed.get("bozo"):
                 print(f"    aviso del lector: {parsed.get('bozo_exception')}")
-            print(f"    la web respondió: {parsed.get('_head', '')}")
+            if parsed.get("_title"):
+                print(f"    título de la página recibida: {parsed['_title']}")
+            if parsed.get("_alt"):
+                print("    feeds que declara esa página: " + " | ".join(parsed["_alt"]))
+            else:
+                print(f"    la web respondió: {parsed.get('_head', '')}")
             continue
 
         if test:
@@ -163,18 +199,30 @@ def main():
 
         # Primera vez que vemos este feed: guardamos lo existente sin publicar nada
         if not state.get(url):
-            state[url] = ids[:MAX_SEEN]
-            print(f"  primera ejecución: {len(ids)} artículos marcados como vistos")
+            keys = [k for e in reversed(entries) for k in entry_keys(e)]
+            state[url] = keys[-MAX_SEEN:]
+            print(f"  primera ejecución: {len(entries)} artículos marcados como vistos")
             continue
 
         seen = set(state[url])
-        fresh = [e for e in entries if entry_id(e) not in seen][::-1]  # más antiguo primero
-        skipped, to_post = fresh[:-MAX_PER_RUN], fresh[-MAX_PER_RUN:]
-        done = [entry_id(e) for e in skipped]
+        fresh, batch = [], set()
+        for e in entries:
+            keys = entry_keys(e)
+            if any(k in seen or k in batch for k in keys):
+                continue
+            batch.update(keys)
+            fresh.append(e)
+        fresh.reverse()  # más antiguo primero
+
+        limit = int(feed.get("max_per_run", MAX_PER_RUN))
+        skipped, to_post = (fresh[:-limit], fresh[-limit:]) if limit > 0 else (fresh, [])
+        done = [k for e in skipped for k in entry_keys(e)]
+        if skipped:
+            print(f"  (se omiten {len(skipped)} artículos antiguos por el límite de {limit})")
 
         for e in to_post:
             if post(webhook, build_embed(feed, e)):
-                done.append(entry_id(e))
+                done.extend(entry_keys(e))
                 print(f"  ✓ {clean(e.get('title', ''))[:70]}")
                 time.sleep(1)
 

@@ -1,7 +1,7 @@
 [
   {
-    "name": "The Guardian · Internacional",
-    "url": "https://www.theguardian.com/international/rss",
+    "name": "The Guardian · Política",
+    "url": "https://www.theguardian.com/politics/rss",
     "webhook_env": "WEBHOOK_GUARDIAN",
     "color": "#052962"
   },
@@ -18,16 +18,10 @@
     "color": "#F5C518"
   },
   {
-    "name": "Letras Libres · Política",
-    "url": "https://letraslibres.com/politica/feed/",
-    "webhook_env": "WEBHOOK_LETRASLIBRES_POLITICA",
+    "name": "Letras Libres",
+    "url": "https://letraslibres.com/feed/",
+    "webhook_env": "WEBHOOK_LETRASLIBRES",
     "color": "#8E1B1B"
-  },
-  {
-    "name": "Letras Libres · Historia",
-    "url": "https://letraslibres.com/historia/feed/",
-    "webhook_env": "WEBHOOK_LETRASLIBRES_HISTORIA",
-    "color": "#B5651D"
   },
   {
     "name": "Razón Pública",
