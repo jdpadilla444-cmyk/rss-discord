@@ -35,7 +35,7 @@
     "name": "Nueva Sociedad",
     "url": "https://news.google.com/rss/search?q=site:nuso.org&hl=es-419&gl=CO&ceid=CO:es-419",
     "webhook_env": "WEBHOOK_NUEVASOCIEDAD",
-    "color": "#FFFFFF",
+    "color": "#FFFFFE",
     "max_per_run": 2,
     "fallback_image":"https://raw.githubusercontent.com/jdpadilla444-cmyk/rss-discord/main/nuso-logo.png"
   }
