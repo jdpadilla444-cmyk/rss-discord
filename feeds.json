@@ -22,7 +22,7 @@
     "name": "Letras Libres",
     "url": "https://letraslibres.com/feed/",
     "webhook_env": "WEBHOOK_LETRASLIBRES",
-    "color": "#8E1B1B",
+    "color": "#000001",
     "fallback_image":"https://raw.githubusercontent.com/jdpadilla444-cmyk/rss-discord/main/letraslibres-logo.png"
   },
   {
@@ -35,7 +35,7 @@
     "name": "Nueva Sociedad",
     "url": "https://news.google.com/rss/search?q=site:nuso.org&hl=es-419&gl=CO&ceid=CO:es-419",
     "webhook_env": "WEBHOOK_NUEVASOCIEDAD",
-    "color": "#C1121F",
+    "color": "#FFFFFF",
     "max_per_run": 2,
     "fallback_image":"https://raw.githubusercontent.com/jdpadilla444-cmyk/rss-discord/main/nuso-logo.png"
   }
