@@ -133,18 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/finanzas/precio-del-oro-hoy-20-de-octubre-4506704",
-  "https://www.larepublica.co/finanzas/precio-del-oro-hoy-20-de-octubre-4506704",
-  "https://www.larepublica.co/empresas/nuevas-rutas-de-clic-4506732",
-  "https://www.larepublica.co/empresas/nuevas-rutas-de-clic-4506732",
-  "https://www.larepublica.co/globoeconomia/amazon-invertira-mas-de-16-000-millones-de-euros-en-alemania-el-ano-que-viene-4506723",
-  "https://www.larepublica.co/globoeconomia/amazon-invertira-mas-de-16-000-millones-de-euros-en-alemania-el-ano-que-viene-4506723",
-  "https://www.larepublica.co/ocio/los-retos-financieros-y-laborales-de-los-chefs-para-sostener-sus-negocios-gastronomicos-4506741",
-  "https://www.larepublica.co/ocio/los-retos-financieros-y-laborales-de-los-chefs-para-sostener-sus-negocios-gastronomicos-4506741",
-  "https://www.larepublica.co/globoeconomia/china-envia-fuerzas-para-vigilar-un-buque-de-guerra-de-eeuu-cerca-de-un-banco-de-arena-en-disputa-4506760",
-  "https://www.larepublica.co/globoeconomia/china-envia-fuerzas-para-vigilar-un-buque-de-guerra-de-eeuu-cerca-de-un-banco-de-arena-en-disputa-4506760",
-  "https://www.larepublica.co/economia/canciller-omar-bula-busca-fortalecer-las-relaciones-bilaterales-con-ucrania-4506754",
-  "https://www.larepublica.co/economia/canciller-omar-bula-busca-fortalecer-las-relaciones-bilaterales-con-ucrania-4506754",
   "https://www.larepublica.co/globoeconomia/una-caida-de-google-cloud-en-reino-unido-afecta-a-bancos-y-servicios-publicos-4506769",
   "https://www.larepublica.co/globoeconomia/una-caida-de-google-cloud-en-reino-unido-afecta-a-bancos-y-servicios-publicos-4506769",
   "https://www.larepublica.co/ocio/el-charm-de-la-chiva-colombiana-se-convirtio-en-el-mas-vendido-de-pandora-4506771",
@@ -732,7 +720,19 @@
   "https://www.larepublica.co/globoeconomia/china-insta-a-organismos-gubernamentales-a-mitigar-perdida-de-empleos-provocada-por-la-ia-4509502",
   "https://www.larepublica.co/globoeconomia/china-insta-a-organismos-gubernamentales-a-mitigar-perdida-de-empleos-provocada-por-la-ia-4509502",
   "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-octubre-4509419",
-  "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-octubre-4509419"
+  "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-23-de-octubre-4509419",
+  "https://www.larepublica.co/salud-ejecutiva/el-costo-de-volver-a-dormir-bien-puede-ir-de-1-5-hasta-5-millones-para-un-ejecutivo-4509088",
+  "https://www.larepublica.co/salud-ejecutiva/el-costo-de-volver-a-dormir-bien-puede-ir-de-1-5-hasta-5-millones-para-un-ejecutivo-4509088",
+  "https://www.larepublica.co/economia/conexion-de-la-represa-el-cercado-abastecera-de-agua-a-45-000-habitantes-en-la-guajira-4509499",
+  "https://www.larepublica.co/economia/conexion-de-la-represa-el-cercado-abastecera-de-agua-a-45-000-habitantes-en-la-guajira-4509499",
+  "https://www.larepublica.co/globoeconomia/el-ministerio-del-interior-anuncio-el-ingreso-de-mil-policias-para-montevideo-en-noviembre-4509515",
+  "https://www.larepublica.co/globoeconomia/el-ministerio-del-interior-anuncio-el-ingreso-de-mil-policias-para-montevideo-en-noviembre-4509515",
+  "https://www.larepublica.co/finanzas/accion-de-nutresa-tras-la-compra-de-presto-4509523",
+  "https://www.larepublica.co/finanzas/accion-de-nutresa-tras-la-compra-de-presto-4509523",
+  "https://www.larepublica.co/ocio/cali-celebra-el-dia-mundial-del-pandebono-con-10-panaderias-y-12-horas-de-actividades-4509557",
+  "https://www.larepublica.co/ocio/cali-celebra-el-dia-mundial-del-pandebono-con-10-panaderias-y-12-horas-de-actividades-4509557",
+  "https://www.larepublica.co/empresas/comestibles-ricos-cumplio-65-anos-de-operacion-4509567",
+  "https://www.larepublica.co/empresas/comestibles-ricos-cumplio-65-anos-de-operacion-4509567"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1629,6 +1629,8 @@
   "CBMiZkFVX3lxTE1nNUlJWW5HQndkbXplTFd1aUJqQlZXOWgzZnB3Q1FJWjg3YmFpVjFKc2pjRXZzVExTX0dOcVdKOVNnN0RkZUxRd0VzUy1pSkIxRy0tUXF3aVdFY1g5Q2NKQk1aUERkdw",
   "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nNUlJWW5HQndkbXplTFd1aUJqQlZXOWgzZnB3Q1FJWjg3YmFpVjFKc2pjRXZzVExTX0dOcVdKOVNnN0RkZUxRd0VzUy1pSkIxRy0tUXF3aVdFY1g5Q2NKQk1aUERkdw?oc=5",
   "CBMiigFBVV95cUxPdlJPZWVKaVU4M0NtcmVwck9uWDIzbUxmMENORVpLVVFrWl9rR3lHenk3LVpvWk1Oc0Y0NlhyLVZwWWNnUkdINzhlMWpVX3k5cnA0ZzljZ0hqNkUwU2tiWDZGejRVb1JmWFY3Q0ZoTGpBa0NxX2FScVNfWlo0N1NnWHYtNDQxa0dRTWc",
-  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdlJPZWVKaVU4M0NtcmVwck9uWDIzbUxmMENORVpLVVFrWl9rR3lHenk3LVpvWk1Oc0Y0NlhyLVZwWWNnUkdINzhlMWpVX3k5cnA0ZzljZ0hqNkUwU2tiWDZGejRVb1JmWFY3Q0ZoTGpBa0NxX2FScVNfWlo0N1NnWHYtNDQxa0dRTWc?oc=5"
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdlJPZWVKaVU4M0NtcmVwck9uWDIzbUxmMENORVpLVVFrWl9rR3lHenk3LVpvWk1Oc0Y0NlhyLVZwWWNnUkdINzhlMWpVX3k5cnA0ZzljZ0hqNkUwU2tiWDZGejRVb1JmWFY3Q0ZoTGpBa0NxX2FScVNfWlo0N1NnWHYtNDQxa0dRTWc?oc=5",
+  "CBMif0FVX3lxTFBGanlUcFBrV1YwSWxubWFRcHpiN0UtQjg2UGJWWE5YQl9RYnFDVjdWRjZvcGg2YW0xMmROZ2tKUzJ1YUFVQVRHVWIzejJxUEZSb3ItWHRyMzM3dUp4S0o5a005bjlMN1RIZUlCMWNLWmlvaGhWQUVCbjV1dVNLamM",
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGanlUcFBrV1YwSWxubWFRcHpiN0UtQjg2UGJWWE5YQl9RYnFDVjdWRjZvcGg2YW0xMmROZ2tKUzJ1YUFVQVRHVWIzejJxUEZSb3ItWHRyMzM3dUp4S0o5a005bjlMN1RIZUlCMWNLWmlvaGhWQUVCbjV1dVNLamM?oc=5"
  ]
 }
