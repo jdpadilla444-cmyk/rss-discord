@@ -133,18 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/analisis/carlos-ronderos-533356/woke-y-economia-4506380",
-  "https://www.larepublica.co/analisis/carlos-ronderos-533356/woke-y-economia-4506380",
-  "https://www.larepublica.co/analisis/jorge-guajardo-4506414/por-una-politica-industrial-soberana-4506413",
-  "https://www.larepublica.co/analisis/jorge-guajardo-4506414/por-una-politica-industrial-soberana-4506413",
-  "https://www.larepublica.co/analisis/cesar-mauricio-rodriguez-zarate-3545376/el-precio-de-renunciar-al-orden-lecciones-desde-francia-4506424",
-  "https://www.larepublica.co/analisis/cesar-mauricio-rodriguez-zarate-3545376/el-precio-de-renunciar-al-orden-lecciones-desde-francia-4506424",
-  "https://www.larepublica.co/analisis/hernan-david-perez-3094442/ciberseguridad-el-reto-crece-4506377",
-  "https://www.larepublica.co/analisis/hernan-david-perez-3094442/ciberseguridad-el-reto-crece-4506377",
-  "https://www.larepublica.co/economia/hacienda-busca-trasladar-recursos-del-pgn-al-fondo-milagro-para-atender-el-terremoto-4506499",
-  "https://www.larepublica.co/economia/hacienda-busca-trasladar-recursos-del-pgn-al-fondo-milagro-para-atender-el-terremoto-4506499",
-  "https://www.larepublica.co/analisis/simon-gaviria-munoz-401830/despensa-del-caribe-4506346",
-  "https://www.larepublica.co/analisis/simon-gaviria-munoz-401830/despensa-del-caribe-4506346",
   "https://www.larepublica.co/analisis/natalia-zuleta-3133531/entre-el-poder-y-la-fuerza-4506410",
   "https://www.larepublica.co/analisis/natalia-zuleta-3133531/entre-el-poder-y-la-fuerza-4506410",
   "https://www.larepublica.co/ocio/asi-se-vivio-el-x-congreso-internacional-de-psicologia-en-la-universidad-catolica-de-colombia-4506526",
@@ -732,7 +720,19 @@
   "https://www.larepublica.co/globoeconomia/ee-uu-dice-celebrar-los-avances-en-las-conversaciones-de-reconciliacion-politica-en-venezuela-4509407",
   "https://www.larepublica.co/globoeconomia/ee-uu-dice-celebrar-los-avances-en-las-conversaciones-de-reconciliacion-politica-en-venezuela-4509407",
   "https://www.larepublica.co/globoeconomia/diplomaticos-extranjeros-en-brasil-debaten-el-rapido-reconocimiento-del-ganador-de-segunda-vuelta-4509414",
-  "https://www.larepublica.co/globoeconomia/diplomaticos-extranjeros-en-brasil-debaten-el-rapido-reconocimiento-del-ganador-de-segunda-vuelta-4509414"
+  "https://www.larepublica.co/globoeconomia/diplomaticos-extranjeros-en-brasil-debaten-el-rapido-reconocimiento-del-ganador-de-segunda-vuelta-4509414",
+  "https://www.larepublica.co/empresas/nutresa-busca-rescatar-a-presto-y-consolidar-su-dominio-en-el-mercado-de-hamburguesas-4509392",
+  "https://www.larepublica.co/empresas/nutresa-busca-rescatar-a-presto-y-consolidar-su-dominio-en-el-mercado-de-hamburguesas-4509392",
+  "https://www.larepublica.co/globoeconomia/el-brent-alcanza-su-nivel-mas-alto-desde-mayo-y-suma-tres-semanas-al-alza-4509427",
+  "https://www.larepublica.co/globoeconomia/el-brent-alcanza-su-nivel-mas-alto-desde-mayo-y-suma-tres-semanas-al-alza-4509427",
+  "https://www.larepublica.co/empresas/movidas-de-jaime-gilinski-en-el-sector-de-alimentos-4509430",
+  "https://www.larepublica.co/empresas/movidas-de-jaime-gilinski-en-el-sector-de-alimentos-4509430",
+  "https://www.larepublica.co/globoeconomia/citigroup-reune-a-analistas-en-mexico-de-cara-a-salida-a-bolsa-de-banamex-4509441",
+  "https://www.larepublica.co/globoeconomia/citigroup-reune-a-analistas-en-mexico-de-cara-a-salida-a-bolsa-de-banamex-4509441",
+  "https://www.larepublica.co/economia/supersalud-presento-nueva-estrategia-para-conciliar-cartera-entre-eps-e-ips-en-el-tolima-4509452",
+  "https://www.larepublica.co/economia/supersalud-presento-nueva-estrategia-para-conciliar-cartera-entre-eps-e-ips-en-el-tolima-4509452",
+  "https://www.larepublica.co/globoeconomia/fenomeno-del-nino-desata-tormentas-en-chile-y-amenaza-la-produccion-de-cobre-y-cultivos-4509449",
+  "https://www.larepublica.co/globoeconomia/fenomeno-del-nino-desata-tormentas-en-chile-y-amenaza-la-produccion-de-cobre-y-cultivos-4509449"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -959,7 +959,9 @@
   "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
   "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
   "https://www.theguardian.com/commentisfree/2026/oct/23/tory-party-kemi-badenoch-quit-andrew-boff",
-  "https://www.theguardian.com/commentisfree/2026/oct/23/tory-party-kemi-badenoch-quit-andrew-boff"
+  "https://www.theguardian.com/commentisfree/2026/oct/23/tory-party-kemi-badenoch-quit-andrew-boff",
+  "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
+  "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
