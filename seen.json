@@ -133,12 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/economia/procucuta-busca-que-proyectos-de-los-santanderes-queden-incluidos-en-el-nuevo-pnd-4506964",
-  "https://www.larepublica.co/economia/procucuta-busca-que-proyectos-de-los-santanderes-queden-incluidos-en-el-nuevo-pnd-4506964",
-  "https://www.larepublica.co/finanzas/bancolombia-estreno-documental-sobre-fraude-financiero-como-prevenirlo-4506838",
-  "https://www.larepublica.co/finanzas/bancolombia-estreno-documental-sobre-fraude-financiero-como-prevenirlo-4506838",
-  "https://www.larepublica.co/economia/ministerio-de-hacienda-firmo-operacion-de-credito-por-us-224-millones-con-el-kfw-4506963",
-  "https://www.larepublica.co/economia/ministerio-de-hacienda-firmo-operacion-de-credito-por-us-224-millones-con-el-kfw-4506963",
   "https://www.larepublica.co/economia/mintrabajo-pagara-25-del-minimo-de-cada-nuevo-empleado-contratado-en-empresas-4506973",
   "https://www.larepublica.co/economia/mintrabajo-pagara-25-del-minimo-de-cada-nuevo-empleado-contratado-en-empresas-4506973",
   "https://www.larepublica.co/economia/gobierno-llevara-86-proyectos-por-us-56-799-millones-a-rueda-de-inversion-en-nueva-york-4506984",
@@ -732,7 +726,13 @@
   "https://www.larepublica.co/finanzas/banco-falabella-lanzo-una-alternativa-para-unificar-deudas-de-tarjetas-de-credito-en-cmr-4509759",
   "https://www.larepublica.co/finanzas/banco-falabella-lanzo-una-alternativa-para-unificar-deudas-de-tarjetas-de-credito-en-cmr-4509759",
   "https://www.larepublica.co/finanzas/gobierno-nacional-y-gremios-del-sector-cooperativo-firman-acuerdo-contra-el-gota-a-gota-4509826",
-  "https://www.larepublica.co/finanzas/gobierno-nacional-y-gremios-del-sector-cooperativo-firman-acuerdo-contra-el-gota-a-gota-4509826"
+  "https://www.larepublica.co/finanzas/gobierno-nacional-y-gremios-del-sector-cooperativo-firman-acuerdo-contra-el-gota-a-gota-4509826",
+  "https://www.larepublica.co/empresas/presto-se-pronuncia-tras-el-acuerdo-de-compra-de-grupo-nutresa-4509867",
+  "https://www.larepublica.co/empresas/presto-se-pronuncia-tras-el-acuerdo-de-compra-de-grupo-nutresa-4509867",
+  "https://www.larepublica.co/globoeconomia/inditex-intensifica-su-despliegue-por-eeuu-mas-alla-de-zara-4509873",
+  "https://www.larepublica.co/globoeconomia/inditex-intensifica-su-despliegue-por-eeuu-mas-alla-de-zara-4509873",
+  "https://www.larepublica.co/empresas/puerto-antioquia-destaca-el-potencial-de-uraba-para-atraer-inversion-y-dinamizar-la-economia-4509877",
+  "https://www.larepublica.co/empresas/puerto-antioquia-destaca-el-potencial-de-uraba-para-atraer-inversion-y-dinamizar-la-economia-4509877"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1651,6 +1651,8 @@
   "CBMiigFBVV95cUxPdlJPZWVKaVU4M0NtcmVwck9uWDIzbUxmMENORVpLVVFrWl9rR3lHenk3LVpvWk1Oc0Y0NlhyLVZwWWNnUkdINzhlMWpVX3k5cnA0ZzljZ0hqNkUwU2tiWDZGejRVb1JmWFY3Q0ZoTGpBa0NxX2FScVNfWlo0N1NnWHYtNDQxa0dRTWc",
   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdlJPZWVKaVU4M0NtcmVwck9uWDIzbUxmMENORVpLVVFrWl9rR3lHenk3LVpvWk1Oc0Y0NlhyLVZwWWNnUkdINzhlMWpVX3k5cnA0ZzljZ0hqNkUwU2tiWDZGejRVb1JmWFY3Q0ZoTGpBa0NxX2FScVNfWlo0N1NnWHYtNDQxa0dRTWc?oc=5",
   "CBMif0FVX3lxTFBGanlUcFBrV1YwSWxubWFRcHpiN0UtQjg2UGJWWE5YQl9RYnFDVjdWRjZvcGg2YW0xMmROZ2tKUzJ1YUFVQVRHVWIzejJxUEZSb3ItWHRyMzM3dUp4S0o5a005bjlMN1RIZUlCMWNLWmlvaGhWQUVCbjV1dVNLamM",
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGanlUcFBrV1YwSWxubWFRcHpiN0UtQjg2UGJWWE5YQl9RYnFDVjdWRjZvcGg2YW0xMmROZ2tKUzJ1YUFVQVRHVWIzejJxUEZSb3ItWHRyMzM3dUp4S0o5a005bjlMN1RIZUlCMWNLWmlvaGhWQUVCbjV1dVNLamM?oc=5"
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGanlUcFBrV1YwSWxubWFRcHpiN0UtQjg2UGJWWE5YQl9RYnFDVjdWRjZvcGg2YW0xMmROZ2tKUzJ1YUFVQVRHVWIzejJxUEZSb3ItWHRyMzM3dUp4S0o5a005bjlMN1RIZUlCMWNLWmlvaGhWQUVCbjV1dVNLamM?oc=5",
+  "CBMif0FVX3lxTE5mOXNMM0xsSWh3bUR6dlBGQ0NZTXo1ZHpFMU1WajhwSFh5ellENkMyOC1XQzFaejVUSUJfWUcycGxsWGpROWk4bzg3MTZrVlVZaGtfNFN3X0dIa25Xc1d6SlgzWHRldGRWeXR1UnFzV2hYQk41RlM1S3hhNW1kMTQ",
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mOXNMM0xsSWh3bUR6dlBGQ0NZTXo1ZHpFMU1WajhwSFh5ellENkMyOC1XQzFaejVUSUJfWUcycGxsWGpROWk4bzg3MTZrVlVZaGtfNFN3X0dIa25Xc1d6SlgzWHRldGRWeXR1UnFzV2hYQk41RlM1S3hhNW1kMTQ?oc=5"
  ]
 }
