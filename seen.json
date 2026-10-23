@@ -133,10 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/economia/andi-alerto-por-el-retroceso-del-agro-la-industria-y-la-construccion-en-agosto-4506300",
-  "https://www.larepublica.co/finanzas/mambu-y-mastercard-integraran-pagos-internacionales-para-la-banca-colombiana-4506293",
-  "https://www.larepublica.co/empresas/un-hotel-y-110-nuevos-locales-la-apuesta-de-expansion-de-la-estacion-ibague-4506271",
-  "https://www.larepublica.co/globoeconomia/el-bitcoin-recupera-los-us-83-000-a-medida-que-regresa-el-apetito-por-el-riesgo-a-los-mercados-4506254",
   "https://www.larepublica.co/globoeconomia/musk-planea-regalar-acciones-de-spacex-a-ninos-a-traves-de-cuentas-de-trump-4506236",
   "https://www.larepublica.co/finanzas/findeter-emitio-bonos-por-300-000-millones-y-la-demanda-fue-1-9-veces-el-monto-ofertado-4506213",
   "https://www.larepublica.co/globoeconomia/canal-de-panama-figura-entre-los-puntos-de-riesgo-para-las-cadenas-de-suministro-globale-4506230",
@@ -732,7 +728,11 @@
   "https://www.larepublica.co/finanzas/koa-cerro-el-primer-ano-de-su-cdt-digital-con-mas-de-435-000-millones-y-llega-a-410-municipios-4509101",
   "https://www.larepublica.co/finanzas/koa-cerro-el-primer-ano-de-su-cdt-digital-con-mas-de-435-000-millones-y-llega-a-410-municipios-4509101",
   "https://www.larepublica.co/economia/dian-rebajara-85-de-las-sanciones-a-contribuyentes-en-mora-con-el-decreto-del-terremoto-4509104",
-  "https://www.larepublica.co/economia/dian-rebajara-85-de-las-sanciones-a-contribuyentes-en-mora-con-el-decreto-del-terremoto-4509104"
+  "https://www.larepublica.co/economia/dian-rebajara-85-de-las-sanciones-a-contribuyentes-en-mora-con-el-decreto-del-terremoto-4509104",
+  "https://www.larepublica.co/economia/michel-janna-asumira-la-representacion-de-colombia-ante-el-fmi-en-washington-4509158",
+  "https://www.larepublica.co/economia/michel-janna-asumira-la-representacion-de-colombia-ante-el-fmi-en-washington-4509158",
+  "https://www.larepublica.co/empresas/gran-parrilla-boyacense-reporto-una-emergencia-en-el-ducto-de-extraccion-de-su-sede-en-gran-estacion-4509166",
+  "https://www.larepublica.co/empresas/gran-parrilla-boyacense-reporto-una-emergencia-en-el-ducto-de-extraccion-de-su-sede-en-gran-estacion-4509166"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1527,6 +1527,8 @@
   "CBMie0FVX3lxTE04RFJVdkZpSEpqNHRGWDg1NlA3d0JZdHVDV2ZOdGo1eXJ5ZFg2SFg5N3pDUW5kNldaM2J2cmp2VEpCR0RDc1haelJ2OXBTVEhTSXVUc3E2cldWR1lBQTA4emI1VVltbkx4Ry03QllHWHJRdmVnZHhjMWlaTQ",
   "https://news.google.com/rss/articles/CBMie0FVX3lxTE04RFJVdkZpSEpqNHRGWDg1NlA3d0JZdHVDV2ZOdGo1eXJ5ZFg2SFg5N3pDUW5kNldaM2J2cmp2VEpCR0RDc1haelJ2OXBTVEhTSXVUc3E2cldWR1lBQTA4emI1VVltbkx4Ry03QllHWHJRdmVnZHhjMWlaTQ?oc=5",
   "CBMifkFVX3lxTFB5aGZDOFdOd1N6QjdkcTROQ0xWU1BDZ1c1YVhrY2k0MUxybThIZTZFMlp5eWVJbENCY3FkQzZpTWdFWW51OTBwYkhuODlsSmdfMmYteXI3QTVhdFFmaWwxblNiN29qUGl0NmVzVDRNOG1FN2RHNHcybFBIRERfdw",
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5aGZDOFdOd1N6QjdkcTROQ0xWU1BDZ1c1YVhrY2k0MUxybThIZTZFMlp5eWVJbENCY3FkQzZpTWdFWW51OTBwYkhuODlsSmdfMmYteXI3QTVhdFFmaWwxblNiN29qUGl0NmVzVDRNOG1FN2RHNHcybFBIRERfdw?oc=5"
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5aGZDOFdOd1N6QjdkcTROQ0xWU1BDZ1c1YVhrY2k0MUxybThIZTZFMlp5eWVJbENCY3FkQzZpTWdFWW51OTBwYkhuODlsSmdfMmYteXI3QTVhdFFmaWwxblNiN29qUGl0NmVzVDRNOG1FN2RHNHcybFBIRERfdw?oc=5",
+  "CBMibkFVX3lxTE1EN0RiR21Fb0c5aVNiZmx5MW8wclZZOUh1U2NPTjVYZU45VENDVF8xYjZtVjlRa2Y5cllvYmozUE1MWGI0dHdsdmQ1MmhFNUkyMWFrX0YyMmFveDI1QVJGUW5XQjA3dW44VWNRaDV3",
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EN0RiR21Fb0c5aVNiZmx5MW8wclZZOUh1U2NPTjVYZU45VENDVF8xYjZtVjlRa2Y5cllvYmozUE1MWGI0dHdsdmQ1MmhFNUkyMWFrX0YyMmFveDI1QVJGUW5XQjA3dW44VWNRaDV3?oc=5"
  ]
 }
