@@ -133,14 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/apple-es-el-refugio-de-ia-favorito-de-wall-street-ante-los-temores-de-gasto-4508676",
-  "https://www.larepublica.co/globoeconomia/apple-es-el-refugio-de-ia-favorito-de-wall-street-ante-los-temores-de-gasto-4508676",
-  "https://www.larepublica.co/finanzas/financiera-juriscoop-se-vinculo-al-esquema-de-autorregulacion-obligatoria-del-amv-4508683",
-  "https://www.larepublica.co/finanzas/financiera-juriscoop-se-vinculo-al-esquema-de-autorregulacion-obligatoria-del-amv-4508683",
-  "https://www.larepublica.co/ocio/isabella-santo-domingo-regresa-a-las-librerias-con-karma-una-novela-sobre-venganza-y-justicia-4508677",
-  "https://www.larepublica.co/ocio/isabella-santo-domingo-regresa-a-las-librerias-con-karma-una-novela-sobre-venganza-y-justicia-4508677",
-  "https://www.larepublica.co/ocio/topara-destinara-1-de-su-ebitda-a-conservacion-ambiental-en-alianza-con-livehappy-4508713",
-  "https://www.larepublica.co/ocio/topara-destinara-1-de-su-ebitda-a-conservacion-ambiental-en-alianza-con-livehappy-4508713",
   "https://www.larepublica.co/globoeconomia/rendimiento-de-bonos-tesoro-de-ee-uu-cae-por-debajo-de-5-por-temores-sobre-ia-4508732",
   "https://www.larepublica.co/globoeconomia/rendimiento-de-bonos-tesoro-de-ee-uu-cae-por-debajo-de-5-por-temores-sobre-ia-4508732",
   "https://www.larepublica.co/globoeconomia/peru-anuncia-una-politica-fiscal-contraciclica-para-enfrentar-los-efectos-de-el-nino-4508692",
@@ -732,7 +724,15 @@
   "https://www.larepublica.co/empresas/proceso-de-reorganizacion-empresarial-de-metropolitan-printer-y-legis-editores-4511380",
   "https://www.larepublica.co/empresas/proceso-de-reorganizacion-empresarial-de-metropolitan-printer-y-legis-editores-4511380",
   "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vivicios-de-procedimiento-de-la-pensional-4511159",
-  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vivicios-de-procedimiento-de-la-pensional-4511159"
+  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vivicios-de-procedimiento-de-la-pensional-4511159",
+  "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-victoria-electoral-de-lula-4511106",
+  "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-victoria-electoral-de-lula-4511106",
+  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vicios-de-procedimiento-de-la-pensional-4511159",
+  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vicios-de-procedimiento-de-la-pensional-4511159",
+  "https://www.larepublica.co/globoeconomia/el-regimen-venezolano-afirma-que-machado-debe-arrepentirse-y-evitar-el-espectaculo-4511428",
+  "https://www.larepublica.co/globoeconomia/el-regimen-venezolano-afirma-que-machado-debe-arrepentirse-y-evitar-el-espectaculo-4511428",
+  "https://www.larepublica.co/globoeconomia/paraguay-se-suma-a-iniciativa-de-ee-uu-para-fortalecer-la-cadena-de-suministro-de-ia-4511446",
+  "https://www.larepublica.co/globoeconomia/paraguay-se-suma-a-iniciativa-de-ee-uu-para-fortalecer-la-cadena-de-suministro-de-ia-4511446"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1159,7 +1159,9 @@
   "https://letraslibres.com/?p=163064",
   "https://letraslibres.com/politica/lo-que-esta-en-juego-en-las-elecciones-en-israel/26/10/2026",
   "https://letraslibres.com/?p=163071",
-  "https://letraslibres.com/politica/brasil-un-balance-provisional/26/10/2026"
+  "https://letraslibres.com/politica/brasil-un-balance-provisional/26/10/2026",
+  "https://letraslibres.com/?p=163076",
+  "https://letraslibres.com/politica/la-necesidad-de-cambio-se-sigue-expresando-en-venezuela-luz-mely-reyes/26/10/2026"
  ],
  "https://cerosetenta.uniandes.edu.co/feed/": [
   "https://cerosetenta.uniandes.edu.co/?p=71405",
