@@ -133,18 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/francia-reporta-primer-caso-humano-del-virus-shamonda-tras-fallecimiento-4508657",
-  "https://www.larepublica.co/globoeconomia/francia-reporta-primer-caso-humano-del-virus-shamonda-tras-fallecimiento-4508657",
-  "https://www.larepublica.co/globoeconomia/las-bolsas-caen-por-resultados-de-tecnologicas-y-la-subida-del-petroleo-4508665",
-  "https://www.larepublica.co/globoeconomia/las-bolsas-caen-por-resultados-de-tecnologicas-y-la-subida-del-petroleo-4508665",
-  "https://www.larepublica.co/economia/los-retos-que-aznar-identifica-para-la-democracia-liberal-la-ia-la-crisis-energetica-y-demografica-4508662",
-  "https://www.larepublica.co/economia/los-retos-que-aznar-identifica-para-la-democracia-liberal-la-ia-la-crisis-energetica-y-demografica-4508662",
-  "https://www.larepublica.co/globoeconomia/la-cancilleria-confirmo-la-llegada-del-papa-leon-xiv-a-uruguay-en-noviembre-4508672",
-  "https://www.larepublica.co/globoeconomia/la-cancilleria-confirmo-la-llegada-del-papa-leon-xiv-a-uruguay-en-noviembre-4508672",
-  "https://www.larepublica.co/economia/comunidades-energeticas-podrian-reducir-hasta-35-los-costos-de-las-empresas-4508678",
-  "https://www.larepublica.co/economia/comunidades-energeticas-podrian-reducir-hasta-35-los-costos-de-las-empresas-4508678",
-  "https://www.larepublica.co/economia/villar-adviertio-que-el-deficit-fiscal-presiona-las-tasas-y-contribuye-a-la-apreciacion-del-peso-4508688",
-  "https://www.larepublica.co/economia/villar-adviertio-que-el-deficit-fiscal-presiona-las-tasas-y-contribuye-a-la-apreciacion-del-peso-4508688",
   "https://www.larepublica.co/globoeconomia/apple-es-el-refugio-de-ia-favorito-de-wall-street-ante-los-temores-de-gasto-4508676",
   "https://www.larepublica.co/globoeconomia/apple-es-el-refugio-de-ia-favorito-de-wall-street-ante-los-temores-de-gasto-4508676",
   "https://www.larepublica.co/finanzas/financiera-juriscoop-se-vinculo-al-esquema-de-autorregulacion-obligatoria-del-amv-4508683",
@@ -732,7 +720,19 @@
   "https://www.larepublica.co/empresas/nuevas-tiendas-de-primia-4511312",
   "https://www.larepublica.co/empresas/nuevas-tiendas-de-primia-4511312",
   "https://www.larepublica.co/globoeconomia/spacex-firma-leasing-de-us-40-000-millones-con-apollo-para-financiar-chips-de-ia-4511319",
-  "https://www.larepublica.co/globoeconomia/spacex-firma-leasing-de-us-40-000-millones-con-apollo-para-financiar-chips-de-ia-4511319"
+  "https://www.larepublica.co/globoeconomia/spacex-firma-leasing-de-us-40-000-millones-con-apollo-para-financiar-chips-de-ia-4511319",
+  "https://www.larepublica.co/globoeconomia/temores-por-la-deuda-derivada-de-la-ia-impulsan-los-diferenciales-de-credito-globales-4511346",
+  "https://www.larepublica.co/globoeconomia/temores-por-la-deuda-derivada-de-la-ia-impulsan-los-diferenciales-de-credito-globales-4511346",
+  "https://www.larepublica.co/globoeconomia/colombia-creceria-2-4-en-2026-por-encima-del-promedio-de-america-latina-estima-la-cepal-4511218",
+  "https://www.larepublica.co/globoeconomia/colombia-creceria-2-4-en-2026-por-encima-del-promedio-de-america-latina-estima-la-cepal-4511218",
+  "https://www.larepublica.co/ocio/la-marca-colombiana-primia-abrio-su-segunda-tienda-en-bogota-ubicada-en-unicentro-4511310",
+  "https://www.larepublica.co/ocio/la-marca-colombiana-primia-abrio-su-segunda-tienda-en-bogota-ubicada-en-unicentro-4511310",
+  "https://www.larepublica.co/finanzas/el-banco-de-bogota-advirtio-sobre-mensajes-fraudulentos-que-suplantan-a-la-entidad-4511213",
+  "https://www.larepublica.co/finanzas/el-banco-de-bogota-advirtio-sobre-mensajes-fraudulentos-que-suplantan-a-la-entidad-4511213",
+  "https://www.larepublica.co/empresas/proceso-de-reorganizacion-empresarial-de-metropolitan-printer-y-legis-editores-4511380",
+  "https://www.larepublica.co/empresas/proceso-de-reorganizacion-empresarial-de-metropolitan-printer-y-legis-editores-4511380",
+  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vivicios-de-procedimiento-de-la-pensional-4511159",
+  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vivicios-de-procedimiento-de-la-pensional-4511159"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1061,7 +1061,9 @@
   "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
   "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
   "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
-  "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement"
+  "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+  "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
+  "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
