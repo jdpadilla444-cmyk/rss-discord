@@ -133,12 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/especiales/el-turismo-conecta-regiones-y-mueve-inversion/gastronomia-y-cultura-ganan-terreno-entre-las-razones-para-elegir-un-destino-4509350",
-  "https://www.larepublica.co/especiales/el-turismo-conecta-regiones-y-mueve-inversion/gastronomia-y-cultura-ganan-terreno-entre-las-razones-para-elegir-un-destino-4509350",
-  "https://www.larepublica.co/analisis/cesar-ferrari-400526/desarrollo-acelerado-es-posible-4509354",
-  "https://www.larepublica.co/analisis/cesar-ferrari-400526/desarrollo-acelerado-es-posible-4509354",
-  "https://www.larepublica.co/analisis/santiago-gutierrez-caceres-4070983/wrexham-afc-cuando-el-ascenso-tambien-se-juega-fuera-de-la-cancha-4509357",
-  "https://www.larepublica.co/analisis/santiago-gutierrez-caceres-4070983/wrexham-afc-cuando-el-ascenso-tambien-se-juega-fuera-de-la-cancha-4509357",
   "https://www.larepublica.co/analisis/edwin-maldonado-3274021/presupuesto-2027-donde-quedan-las-regiones-4509359",
   "https://www.larepublica.co/analisis/edwin-maldonado-3274021/presupuesto-2027-donde-quedan-las-regiones-4509359",
   "https://www.larepublica.co/analisis/santiago-jimenez-londono-4353436/el-miedo-a-la-ia-no-frena-el-riesgo-frena-la-productividad-4509361",
@@ -732,7 +726,13 @@
   "https://www.larepublica.co/finanzas/el-oro-cae-por-fortaleza-del-dolar-mientras-operadores-esperan-decision-de-la-fed-4511885",
   "https://www.larepublica.co/finanzas/el-oro-cae-por-fortaleza-del-dolar-mientras-operadores-esperan-decision-de-la-fed-4511885",
   "https://www.larepublica.co/finanzas/sector-asegurador-ya-ha-pagado-1-08-billones-en-indemnizaciones-por-danos-del-terremoto-4511828",
-  "https://www.larepublica.co/finanzas/sector-asegurador-ya-ha-pagado-1-08-billones-en-indemnizaciones-por-danos-del-terremoto-4511828"
+  "https://www.larepublica.co/finanzas/sector-asegurador-ya-ha-pagado-1-08-billones-en-indemnizaciones-por-danos-del-terremoto-4511828",
+  "https://www.larepublica.co/globoeconomia/brasilenos-mas-pobres-destinan-cuatro-veces-mas-ingresos-al-pago-de-tarjetas-de-credito-4512033",
+  "https://www.larepublica.co/globoeconomia/brasilenos-mas-pobres-destinan-cuatro-veces-mas-ingresos-al-pago-de-tarjetas-de-credito-4512033",
+  "https://www.larepublica.co/economia/emision-por-us-5-200-millones-cerro-el-programa-de-bonos-globales-de-2026-4512029",
+  "https://www.larepublica.co/economia/emision-por-us-5-200-millones-cerro-el-programa-de-bonos-globales-de-2026-4512029",
+  "https://www.larepublica.co/globoeconomia/activos-brasilenos-se-recuperan-terreno-tras-ola-de-ventas-post-elecciones-4512053",
+  "https://www.larepublica.co/globoeconomia/activos-brasilenos-se-recuperan-terreno-tras-ola-de-ventas-post-elecciones-4512053"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1089,7 +1089,11 @@
   "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
   "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
   "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
-  "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget"
+  "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
+  "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
+  "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
+  "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
+  "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
