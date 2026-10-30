@@ -133,12 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/economia/como-ha-aumentado-la-mortalidad-de-los-motociclistas-en-el-ultimo-siglo-4512176",
-  "https://www.larepublica.co/economia/como-ha-aumentado-la-mortalidad-de-los-motociclistas-en-el-ultimo-siglo-4512176",
-  "https://www.larepublica.co/globoeconomia/microsoft-ofrece-retiro-voluntario-a-25-de-su-nomina-mientras-invierte-en-ia-4512237",
-  "https://www.larepublica.co/globoeconomia/microsoft-ofrece-retiro-voluntario-a-25-de-su-nomina-mientras-invierte-en-ia-4512237",
-  "https://www.larepublica.co/empresas/el-halloween-aumenta-hasta-80-las-solicitudes-a-traves-de-didi-entrega-4512208",
-  "https://www.larepublica.co/empresas/el-halloween-aumenta-hasta-80-las-solicitudes-a-traves-de-didi-entrega-4512208",
   "https://www.larepublica.co/economia/minsalud-activa-plataforma-para-seguir-atencion-de-1-8-millones-de-pacientes-4512231",
   "https://www.larepublica.co/economia/minsalud-activa-plataforma-para-seguir-atencion-de-1-8-millones-de-pacientes-4512231",
   "https://www.larepublica.co/globoeconomia/flavio-bolsonaro-se-dirige-a-estados-unidos-tras-su-derrota-en-las-elecciones-de-brasil-4512252",
@@ -732,7 +726,13 @@
   "https://www.larepublica.co/empresas/finca-la-celia-andrea-ferreyra-nominada-a-enologa-del-ano-2026-4515068",
   "https://www.larepublica.co/empresas/finca-la-celia-andrea-ferreyra-nominada-a-enologa-del-ano-2026-4515068",
   "https://www.larepublica.co/ocio/netflix-llevara-a-la-pantalla-la-novela-en-diciembre-llegaban-las-brisas-de-marvel-moreno-4515071",
-  "https://www.larepublica.co/ocio/netflix-llevara-a-la-pantalla-la-novela-en-diciembre-llegaban-las-brisas-de-marvel-moreno-4515071"
+  "https://www.larepublica.co/ocio/netflix-llevara-a-la-pantalla-la-novela-en-diciembre-llegaban-las-brisas-de-marvel-moreno-4515071",
+  "https://www.larepublica.co/empresas/coosalud-vuelve-al-control-privado-tras-decision-de-tribunal-de-terminar-intervencion-4515086",
+  "https://www.larepublica.co/empresas/coosalud-vuelve-al-control-privado-tras-decision-de-tribunal-de-terminar-intervencion-4515086",
+  "https://www.larepublica.co/economia/gobierno-anunciara-nuevo-proyecto-de-acueducto-para-santa-marta-y-municipios-aledanos-4515075",
+  "https://www.larepublica.co/economia/gobierno-anunciara-nuevo-proyecto-de-acueducto-para-santa-marta-y-municipios-aledanos-4515075",
+  "https://www.larepublica.co/globoeconomia/macri-se-pronuncio-sobre-las-negociaciones-con-el-espacio-que-lidera-javier-milei-4515098",
+  "https://www.larepublica.co/globoeconomia/macri-se-pronuncio-sobre-las-negociaciones-con-el-espacio-que-lidera-javier-milei-4515098"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1235,7 +1235,9 @@
   "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
   "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
   "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
-  "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism"
+  "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
+  "https://www.theguardian.com/commentisfree/2026/oct/30/liz-truss-public-failure-bounce-back-remorse-honesty",
+  "https://www.theguardian.com/commentisfree/2026/oct/30/liz-truss-public-failure-bounce-back-remorse-honesty"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
@@ -1359,7 +1361,9 @@
   "https://letraslibres.com/?p=163367",
   "https://letraslibres.com/literatura/el-salon-de-gascon-la-odisea-moderna-con-jacobo-bergareche/29/10/2026",
   "https://letraslibres.com/?p=163375",
-  "https://letraslibres.com/cine-tv/al-este-de-varios-paraisos/29/10/2026"
+  "https://letraslibres.com/cine-tv/al-este-de-varios-paraisos/29/10/2026",
+  "https://letraslibres.com/?p=163385",
+  "https://letraslibres.com/politica/un-ciclo-populista-sin-fin/30/10/2026"
  ],
  "https://cerosetenta.uniandes.edu.co/feed/": [
   "https://cerosetenta.uniandes.edu.co/?p=71405",
