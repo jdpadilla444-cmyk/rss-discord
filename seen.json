@@ -133,14 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/paraguay-se-suma-a-iniciativa-de-ee-uu-para-fortalecer-la-cadena-de-suministro-de-ia-4511446",
-  "https://www.larepublica.co/globoeconomia/paraguay-se-suma-a-iniciativa-de-ee-uu-para-fortalecer-la-cadena-de-suministro-de-ia-4511446",
-  "https://www.larepublica.co/globoeconomia/daniel-noboa-asegura-que-hay-indicios-contra-luisa-gonzalez-en-el-caso-laberinto-4511464",
-  "https://www.larepublica.co/globoeconomia/daniel-noboa-asegura-que-hay-indicios-contra-luisa-gonzalez-en-el-caso-laberinto-4511464",
-  "https://www.larepublica.co/globoeconomia/rubio-dice-que-es-necesario-renovar-infraestructura-electoral-de-venezuela-antes-de-sufragios-4511456",
-  "https://www.larepublica.co/globoeconomia/rubio-dice-que-es-necesario-renovar-infraestructura-electoral-de-venezuela-antes-de-sufragios-4511456",
-  "https://www.larepublica.co/globoeconomia/panama-termina-la-excavacion-del-tunel-bajo-el-canal-para-la-linea-3-del-metr-4511487",
-  "https://www.larepublica.co/globoeconomia/panama-termina-la-excavacion-del-tunel-bajo-el-canal-para-la-linea-3-del-metr-4511487",
   "https://www.larepublica.co/empresas/estos-son-los-jefes-gremiales-que-han-salido-de-su-cargo-en-los-ultimos-dos-anos-4511278",
   "https://www.larepublica.co/empresas/estos-son-los-jefes-gremiales-que-han-salido-de-su-cargo-en-los-ultimos-dos-anos-4511278",
   "https://www.larepublica.co/globoeconomia/apple-afirma-que-sustituira-los-iphone-duo-que-presenten-problemas-en-la-pantalla-4511497",
@@ -732,7 +724,15 @@
   "https://www.larepublica.co/economia/la-ley-de-rescate-economico-traera-algunos-cambios-en-la-cotizacion-al-sistema-de-sa-4514561",
   "https://www.larepublica.co/economia/la-ley-de-rescate-economico-traera-algunos-cambios-en-la-cotizacion-al-sistema-de-sa-4514561",
   "https://www.larepublica.co/empresas/portal-de-la-80-inaugurara-una-electrolinera-para-electricos-e-hibridos-enchufables-4514555",
-  "https://www.larepublica.co/empresas/portal-de-la-80-inaugurara-una-electrolinera-para-electricos-e-hibridos-enchufables-4514555"
+  "https://www.larepublica.co/empresas/portal-de-la-80-inaugurara-una-electrolinera-para-electricos-e-hibridos-enchufables-4514555",
+  "https://www.larepublica.co/empresas/fiat-600-hybrid-le-apuesta-a-un-confort-extra-que-combina-tecnologia-y-funcionalidad-4514585",
+  "https://www.larepublica.co/empresas/fiat-600-hybrid-le-apuesta-a-un-confort-extra-que-combina-tecnologia-y-funcionalidad-4514585",
+  "https://www.larepublica.co/empresas/flint-llega-al-mercado-publicitario-colombiano-con-una-red-de-mas-de-600-colaboradores-4514588",
+  "https://www.larepublica.co/empresas/flint-llega-al-mercado-publicitario-colombiano-con-una-red-de-mas-de-600-colaboradores-4514588",
+  "https://www.larepublica.co/empresas/narino-murgas-y-de-hart-integran-la-terna-para-presidir-la-andi-4514596",
+  "https://www.larepublica.co/empresas/narino-murgas-y-de-hart-integran-la-terna-para-presidir-la-andi-4514596",
+  "https://www.larepublica.co/empresas/sint-maarten-fue-el-escenario-del-tercer-destino-oculto-de-wingo-asi-fue-la-experiencia-4514595",
+  "https://www.larepublica.co/empresas/sint-maarten-fue-el-escenario-del-tercer-destino-oculto-de-wingo-asi-fue-la-experiencia-4514595"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1955,6 +1955,8 @@
   "CBMijAFBVV95cUxNQ1FaVF9wdWJwVEtpSFZKb3F2a3ZkTmRMaU4zQ0RScS1IMUJSRjdPbUVmdDRieE1RSklCM3VQdnVkSzRDZ0xWbVlmNU5ydE1kWmRJdVJ6U1RnQ21ndHVaZlBSa040TlQyVHRaVlA5STYtLWlodXZZTW9WOFUtdzQ4eXR2TFByaW5GOV9kWQ",
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1FaVF9wdWJwVEtpSFZKb3F2a3ZkTmRMaU4zQ0RScS1IMUJSRjdPbUVmdDRieE1RSklCM3VQdnVkSzRDZ0xWbVlmNU5ydE1kWmRJdVJ6U1RnQ21ndHVaZlBSa040TlQyVHRaVlA5STYtLWlodXZZTW9WOFUtdzQ4eXR2TFByaW5GOV9kWQ?oc=5",
   "CBMihgFBVV95cUxOdkhWVU1oTmw1ejg3QmpXYm5rYklicWpHb1dsay1xa1A5Z0JwNUZkMU5wRDNrUVptT1ZwWUFUc3BHVzhLSGZac19GaVFVWG1xdDhCTG9RSjB5Qmg1eVRHLUYxazgyUlVnbEpsLTA4V3QwLUpUQVo1cmFvMkptbEV4ckQxUmFpdw",
-  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkhWVU1oTmw1ejg3QmpXYm5rYklicWpHb1dsay1xa1A5Z0JwNUZkMU5wRDNrUVptT1ZwWUFUc3BHVzhLSGZac19GaVFVWG1xdDhCTG9RSjB5Qmg1eVRHLUYxazgyUlVnbEpsLTA4V3QwLUpUQVo1cmFvMkptbEV4ckQxUmFpdw?oc=5"
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkhWVU1oTmw1ejg3QmpXYm5rYklicWpHb1dsay1xa1A5Z0JwNUZkMU5wRDNrUVptT1ZwWUFUc3BHVzhLSGZac19GaVFVWG1xdDhCTG9RSjB5Qmg1eVRHLUYxazgyUlVnbEpsLTA4V3QwLUpUQVo1cmFvMkptbEV4ckQxUmFpdw?oc=5",
+  "CBMijgFBVV95cUxQQ2NKY18yNkxxREFONV9sYzJGal8zZmhBb1V4bkRQWjRVelc1WTBvWEN0M0plSWRqUGI4eWpSS25JNVQ1NFJEUi1HWHRZcUxITkRQQm1ZM3RoWk9rYkFLbkJtQkNVZ01zU1U2LVRGNUlyajN3eWh6UkZaRldZbmg5WjBteDRvcDBHRElWWXp3",
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2NKY18yNkxxREFONV9sYzJGal8zZmhBb1V4bkRQWjRVelc1WTBvWEN0M0plSWRqUGI4eWpSS25JNVQ1NFJEUi1HWHRZcUxITkRQQm1ZM3RoWk9rYkFLbkJtQkNVZ01zU1U2LVRGNUlyajN3eWh6UkZaRldZbmg5WjBteDRvcDBHRElWWXp3?oc=5"
  ]
 }
