@@ -133,10 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/empresas/proceso-de-reorganizacion-empresarial-de-metropolitan-printer-y-legis-editores-4511380",
-  "https://www.larepublica.co/empresas/proceso-de-reorganizacion-empresarial-de-metropolitan-printer-y-legis-editores-4511380",
-  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vivicios-de-procedimiento-de-la-pensional-4511159",
-  "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vivicios-de-procedimiento-de-la-pensional-4511159",
   "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-victoria-electoral-de-lula-4511106",
   "https://www.larepublica.co/globoeconomia/los-mercados-brasilenos-sufren-un-desplome-tras-la-victoria-electoral-de-lula-4511106",
   "https://www.larepublica.co/finanzas/la-camara-de-representantes-sesionara-el-martes-sobre-los-vicios-de-procedimiento-de-la-pensional-4511159",
@@ -732,7 +728,11 @@
   "https://www.larepublica.co/economia/mas-de-19-millones-de-colombianos-dejarian-de-pagar-iva-en-el-proyecto-de-ley-de-rescate-4514396",
   "https://www.larepublica.co/economia/mas-de-19-millones-de-colombianos-dejarian-de-pagar-iva-en-el-proyecto-de-ley-de-rescate-4514396",
   "https://www.larepublica.co/economia/ley-de-rescate-modificaria-regla-fiscal-y-pondria-techo-al-gasto-si-la-deuda-supera-63-del-pib-4514413",
-  "https://www.larepublica.co/economia/ley-de-rescate-modificaria-regla-fiscal-y-pondria-techo-al-gasto-si-la-deuda-supera-63-del-pib-4514413"
+  "https://www.larepublica.co/economia/ley-de-rescate-modificaria-regla-fiscal-y-pondria-techo-al-gasto-si-la-deuda-supera-63-del-pib-4514413",
+  "https://www.larepublica.co/economia/renta-exenta-de-25-tendra-un-limite-anual-de-32-millones-con-ley-de-rescate-economico-4514395",
+  "https://www.larepublica.co/economia/renta-exenta-de-25-tendra-un-limite-anual-de-32-millones-con-ley-de-rescate-economico-4514395",
+  "https://www.larepublica.co/economia/gobierno-subiria-impuesto-por-cajetilla-de-cigarrillo-a-7-823-en-2027-y-1-200-en-2028-4514479",
+  "https://www.larepublica.co/economia/gobierno-subiria-impuesto-por-cajetilla-de-cigarrillo-a-7-823-en-2027-y-1-200-en-2028-4514479"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1953,6 +1953,8 @@
   "CBMia0FVX3lxTE9TdHVGZHE3Qnl2dkMtRlAtQmlsZEFEMi03Y21iTFl0anY1ZTUxWllJSElUWFNYY0p1aUZkUnpNb3Y3SWQ4aDB1ZVlOVVYtaFpuN1lvbUM1MFZYVWNqNjBaSHpzR3JCZkJILS1B",
   "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TdHVGZHE3Qnl2dkMtRlAtQmlsZEFEMi03Y21iTFl0anY1ZTUxWllJSElUWFNYY0p1aUZkUnpNb3Y3SWQ4aDB1ZVlOVVYtaFpuN1lvbUM1MFZYVWNqNjBaSHpzR3JCZkJILS1B?oc=5",
   "CBMijAFBVV95cUxNQ1FaVF9wdWJwVEtpSFZKb3F2a3ZkTmRMaU4zQ0RScS1IMUJSRjdPbUVmdDRieE1RSklCM3VQdnVkSzRDZ0xWbVlmNU5ydE1kWmRJdVJ6U1RnQ21ndHVaZlBSa040TlQyVHRaVlA5STYtLWlodXZZTW9WOFUtdzQ4eXR2TFByaW5GOV9kWQ",
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1FaVF9wdWJwVEtpSFZKb3F2a3ZkTmRMaU4zQ0RScS1IMUJSRjdPbUVmdDRieE1RSklCM3VQdnVkSzRDZ0xWbVlmNU5ydE1kWmRJdVJ6U1RnQ21ndHVaZlBSa040TlQyVHRaVlA5STYtLWlodXZZTW9WOFUtdzQ4eXR2TFByaW5GOV9kWQ?oc=5"
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1FaVF9wdWJwVEtpSFZKb3F2a3ZkTmRMaU4zQ0RScS1IMUJSRjdPbUVmdDRieE1RSklCM3VQdnVkSzRDZ0xWbVlmNU5ydE1kWmRJdVJ6U1RnQ21ndHVaZlBSa040TlQyVHRaVlA5STYtLWlodXZZTW9WOFUtdzQ4eXR2TFByaW5GOV9kWQ?oc=5",
+  "CBMihgFBVV95cUxOdkhWVU1oTmw1ejg3QmpXYm5rYklicWpHb1dsay1xa1A5Z0JwNUZkMU5wRDNrUVptT1ZwWUFUc3BHVzhLSGZac19GaVFVWG1xdDhCTG9RSjB5Qmg1eVRHLUYxazgyUlVnbEpsLTA4V3QwLUpUQVo1cmFvMkptbEV4ckQxUmFpdw",
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkhWVU1oTmw1ejg3QmpXYm5rYklicWpHb1dsay1xa1A5Z0JwNUZkMU5wRDNrUVptT1ZwWUFUc3BHVzhLSGZac19GaVFVWG1xdDhCTG9RSjB5Qmg1eVRHLUYxazgyUlVnbEpsLTA4V3QwLUpUQVo1cmFvMkptbEV4ckQxUmFpdw?oc=5"
  ]
 }
