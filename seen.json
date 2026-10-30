@@ -133,14 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/finanzas/bre-b-llega-a-las-tiendas-de-barrio-y-facilita-los-pagos-de-pedidos-para-cerca-de-18-000-tenderos-4512047",
-  "https://www.larepublica.co/finanzas/bre-b-llega-a-las-tiendas-de-barrio-y-facilita-los-pagos-de-pedidos-para-cerca-de-18-000-tenderos-4512047",
-  "https://www.larepublica.co/globoeconomia/las-ventas-de-viviendas-nuevas-en-ee-uu-caen-en-medio-del-aumento-de-las-tasas-hipotecarias-4512272",
-  "https://www.larepublica.co/globoeconomia/las-ventas-de-viviendas-nuevas-en-ee-uu-caen-en-medio-del-aumento-de-las-tasas-hipotecarias-4512272",
-  "https://www.larepublica.co/empresas/reunen-1-459-firmas-para-respaldar-el-desarrollo-del-proyecto-quebradona-4512278",
-  "https://www.larepublica.co/empresas/reunen-1-459-firmas-para-respaldar-el-desarrollo-del-proyecto-quebradona-4512278",
-  "https://www.larepublica.co/economia/presidente-de-anif-pidio-que-la-ley-de-rescate-apunte-a-recortar-el-gasto-publico-4512294",
-  "https://www.larepublica.co/economia/presidente-de-anif-pidio-que-la-ley-de-rescate-apunte-a-recortar-el-gasto-publico-4512294",
   "https://www.larepublica.co/economia/minhacienda-propone-reasignar-750-000-millones-de-obras-en-bogota-para-el-presupuesto-4511948",
   "https://www.larepublica.co/economia/minhacienda-propone-reasignar-750-000-millones-de-obras-en-bogota-para-el-presupuesto-4511948",
   "https://www.larepublica.co/ocio/caravaggio-llega-a-los-cines-colombianos-con-un-documental-que-explora-los-secretos-detras-de-sus-obras-4512309",
@@ -732,7 +724,15 @@
   "https://www.larepublica.co/economia/junta-directiva-del-banco-de-la-republica-revelara-el-dato-de-la-tasa-de-interes-4515117",
   "https://www.larepublica.co/economia/junta-directiva-del-banco-de-la-republica-revelara-el-dato-de-la-tasa-de-interes-4515117",
   "https://www.larepublica.co/economia/fecoljuegos-pidio-revisar-ajustes-tributarios-de-ley-de-rescate-para-juegos-de-azar-4515150",
-  "https://www.larepublica.co/economia/fecoljuegos-pidio-revisar-ajustes-tributarios-de-ley-de-rescate-para-juegos-de-azar-4515150"
+  "https://www.larepublica.co/economia/fecoljuegos-pidio-revisar-ajustes-tributarios-de-ley-de-rescate-para-juegos-de-azar-4515150",
+  "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117",
+  "https://www.larepublica.co/economia/banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-y-se-ubico-en-12-25-4515117",
+  "https://www.larepublica.co/finanzas/aig-cerro-la-adquisicion-de-everest-compania-de-seguros-generales-4515123",
+  "https://www.larepublica.co/finanzas/aig-cerro-la-adquisicion-de-everest-compania-de-seguros-generales-4515123",
+  "https://www.larepublica.co/economia/junta-del-banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-en-12-25-4515191",
+  "https://www.larepublica.co/economia/junta-del-banco-de-la-republica-mantuvo-inalterada-la-tasa-de-interes-en-12-25-4515191",
+  "https://www.larepublica.co/finanzas/las-compras-con-tarjeta-saldran-mas-baratas-en-noviembre-con-la-tasa-de-usura-en-28-34-4515076",
+  "https://www.larepublica.co/finanzas/las-compras-con-tarjeta-saldran-mas-baratas-en-noviembre-con-la-tasa-de-usura-en-28-34-4515076"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -1371,7 +1371,11 @@
   "https://letraslibres.com/?p=163385",
   "https://letraslibres.com/politica/un-ciclo-populista-sin-fin/30/10/2026",
   "https://letraslibres.com/?p=163393",
-  "https://letraslibres.com/historia/en-el-internet-chino-estamos-en-1644/30/10/2026"
+  "https://letraslibres.com/historia/en-el-internet-chino-estamos-en-1644/30/10/2026",
+  "https://letraslibres.com/?p=163398",
+  "https://letraslibres.com/politica/una-promesa-sin-expectativas/30/10/2026",
+  "https://letraslibres.com/?p=163403",
+  "https://letraslibres.com/literatura/mas-alla-de-la-historia/30/10/2026"
  ],
  "https://cerosetenta.uniandes.edu.co/feed/": [
   "https://cerosetenta.uniandes.edu.co/?p=71405",
