@@ -133,10 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/estados-miembros-de-la-oms-proponen-siete-candidatos-para-nuevo-director-general-4514280",
-  "https://www.larepublica.co/globoeconomia/estados-miembros-de-la-oms-proponen-siete-candidatos-para-nuevo-director-general-4514280",
-  "https://www.larepublica.co/globoeconomia/peso-mexicano-cae-a-niveles-no-vistos-en-mas-de-un-ano-tras-datos-de-inflacion-y-pib-de-ee-uu-4514320",
-  "https://www.larepublica.co/globoeconomia/peso-mexicano-cae-a-niveles-no-vistos-en-mas-de-un-ano-tras-datos-de-inflacion-y-pib-de-ee-uu-4514320",
   "https://www.larepublica.co/empresas/cadenas-hoteleras-apuestan-por-nuevas-marcas-y-experiencias-para-competir-en-un-mercado-cambiante-4514321",
   "https://www.larepublica.co/empresas/cadenas-hoteleras-apuestan-por-nuevas-marcas-y-experiencias-para-competir-en-un-mercado-cambiante-4514321",
   "https://www.larepublica.co/globoeconomia/expresidente-salvadoreno-tony-saca-sale-libre-tras-cumplir-condena-por-corrupcion-4514356",
@@ -732,7 +728,11 @@
   "https://www.larepublica.co/economia/mision-del-fmi-inicia-reuniones-mientras-el-gobierno-explora-credito-de-us-5-000-millones-4516695",
   "https://www.larepublica.co/economia/mision-del-fmi-inicia-reuniones-mientras-el-gobierno-explora-credito-de-us-5-000-millones-4516695",
   "https://www.larepublica.co/globoeconomia/argentina-tgn-realizara-concurso-para-financiar-gasoducto-de-vaca-muerta-4516723",
-  "https://www.larepublica.co/globoeconomia/argentina-tgn-realizara-concurso-para-financiar-gasoducto-de-vaca-muerta-4516723"
+  "https://www.larepublica.co/globoeconomia/argentina-tgn-realizara-concurso-para-financiar-gasoducto-de-vaca-muerta-4516723",
+  "https://www.larepublica.co/globoeconomia/las-exportaciones-petroleras-de-venezuela-se-mantienen-estables-en-octubre-4516743",
+  "https://www.larepublica.co/globoeconomia/las-exportaciones-petroleras-de-venezuela-se-mantienen-estables-en-octubre-4516743",
+  "https://www.larepublica.co/globoeconomia/banco-mundial-preve-alza-de-10-en-alimentos-por-tensiones-geopoliticas-y-climaticas-4516741",
+  "https://www.larepublica.co/globoeconomia/banco-mundial-preve-alza-de-10-en-alimentos-por-tensiones-geopoliticas-y-climaticas-4516741"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -791,7 +791,11 @@
   "65093 at https://www.elcato.org",
   "https://www.elcato.org/economia-antifascista-ignora-los-problemas-que-tiene-trump",
   "65100 at https://www.elcato.org",
-  "https://www.elcato.org/sobre-el-impuesto-al-patrimonio"
+  "https://www.elcato.org/sobre-el-impuesto-al-patrimonio",
+  "65101 at https://www.elcato.org",
+  "https://www.elcato.org/cuales-son-los-estados-mas-libres-un-nuevo-informe-califica-los-50",
+  "65102 at https://www.elcato.org",
+  "https://www.elcato.org/las-participaciones-empresariales-de-trump-son-un-regalo-para-el-proximo-presidente-democrata"
  ],
  "https://letraslibres.com/politica/feed/": [],
  "https://letraslibres.com/historia/feed/": [],
@@ -1373,7 +1377,11 @@
   "https://www.theguardian.com/commentisfree/2026/nov/03/nigel-farage-caroline-voaden-altercation-reform-uk-parliament",
   "https://www.theguardian.com/commentisfree/2026/nov/03/nigel-farage-caroline-voaden-altercation-reform-uk-parliament",
   "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
-  "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained"
+  "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
+  "https://www.theguardian.com/politics/2026/nov/03/john-crace-kemi-badenoch-kaptain-defence-lost-at-sea",
+  "https://www.theguardian.com/politics/2026/nov/03/john-crace-kemi-badenoch-kaptain-defence-lost-at-sea",
+  "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
+  "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
@@ -1529,7 +1537,23 @@
   "https://letraslibres.com/?p=163327",
   "https://letraslibres.com/revista/poesia-novohispana/01/11/2026",
   "https://letraslibres.com/?p=163311",
-  "https://letraslibres.com/revista/poema-41/01/11/2026"
+  "https://letraslibres.com/revista/poema-41/01/11/2026",
+  "https://letraslibres.com/?p=163152",
+  "https://letraslibres.com/revista/vuelta-la-otra-voz-en-la-cultura-hispanoamericana/01/11/2026",
+  "https://letraslibres.com/?p=163198",
+  "https://letraslibres.com/revista/una-politica-exterior-para-america-latina/01/11/2026",
+  "https://letraslibres.com/?p=163207",
+  "https://letraslibres.com/revista/toronto-2026-de-pedestales-y-grietas/01/11/2026",
+  "https://letraslibres.com/?p=163205",
+  "https://letraslibres.com/revista/la-soledad-de-vuelta/01/11/2026",
+  "https://letraslibres.com/?p=163223",
+  "https://letraslibres.com/revista/la-mejor-leccion/01/11/2026",
+  "https://letraslibres.com/?p=163275",
+  "https://letraslibres.com/revista/los-dioses-tienen-hambre/01/11/2026",
+  "https://letraslibres.com/?p=163291",
+  "https://letraslibres.com/revista/el-siglo-xix-en-clave-femenina/01/11/2026",
+  "https://letraslibres.com/?p=163302",
+  "https://letraslibres.com/revista/copi-los-anos-devoran-a-sus-hijos/01/11/2026"
  ],
  "https://cerosetenta.uniandes.edu.co/feed/": [
   "https://cerosetenta.uniandes.edu.co/?p=71405",
