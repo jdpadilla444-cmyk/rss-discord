@@ -133,10 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/economia/gobierno-anunciara-nuevo-proyecto-de-acueducto-para-santa-marta-y-municipios-aledanos-4515075",
-  "https://www.larepublica.co/economia/gobierno-anunciara-nuevo-proyecto-de-acueducto-para-santa-marta-y-municipios-aledanos-4515075",
-  "https://www.larepublica.co/globoeconomia/macri-se-pronuncio-sobre-las-negociaciones-con-el-espacio-que-lidera-javier-milei-4515098",
-  "https://www.larepublica.co/globoeconomia/macri-se-pronuncio-sobre-las-negociaciones-con-el-espacio-que-lidera-javier-milei-4515098",
   "https://www.larepublica.co/economia/junta-directiva-del-banco-de-la-republica-revelara-el-dato-de-la-tasa-de-interes-4515117",
   "https://www.larepublica.co/economia/junta-directiva-del-banco-de-la-republica-revelara-el-dato-de-la-tasa-de-interes-4515117",
   "https://www.larepublica.co/economia/fecoljuegos-pidio-revisar-ajustes-tributarios-de-ley-de-rescate-para-juegos-de-azar-4515150",
@@ -732,7 +728,11 @@
   "https://www.larepublica.co/finanzas/bancolombia-anuncio-mas-de-18-billones-en-cupos-de-credito-para-pyme-y-empresas-del-pais-4517477",
   "https://www.larepublica.co/finanzas/bancolombia-anuncio-mas-de-18-billones-en-cupos-de-credito-para-pyme-y-empresas-del-pais-4517477",
   "https://www.larepublica.co/globoeconomia/sudafrica-busca-digitalizar-el-iva-para-frenar-la-evasion-y-agilizar-reembolsos-a-empresas-4517514",
-  "https://www.larepublica.co/globoeconomia/sudafrica-busca-digitalizar-el-iva-para-frenar-la-evasion-y-agilizar-reembolsos-a-empresas-4517514"
+  "https://www.larepublica.co/globoeconomia/sudafrica-busca-digitalizar-el-iva-para-frenar-la-evasion-y-agilizar-reembolsos-a-empresas-4517514",
+  "https://www.larepublica.co/economia/viviane-morales-fue-designada-como-consejera-comisionada-de-paz-4517578",
+  "https://www.larepublica.co/economia/viviane-morales-fue-designada-como-consejera-comisionada-de-paz-4517578",
+  "https://www.larepublica.co/economia/emisor-lanzo-cuarta-subasta-de-compra-de-dolares-por-us-399-8-millones-4517606",
+  "https://www.larepublica.co/economia/emisor-lanzo-cuarta-subasta-de-compra-de-dolares-por-us-399-8-millones-4517606"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -797,7 +797,9 @@
   "65102 at https://www.elcato.org",
   "https://www.elcato.org/las-participaciones-empresariales-de-trump-son-un-regalo-para-el-proximo-presidente-democrata",
   "65103 at https://www.elcato.org",
-  "https://www.elcato.org/la-deriva-socialista-de-trump"
+  "https://www.elcato.org/la-deriva-socialista-de-trump",
+  "65104 at https://www.elcato.org",
+  "https://www.elcato.org/estamos-estableciendo-limites-la-ia-pero-que-pasa-con-el-gobierno"
  ],
  "https://letraslibres.com/politica/feed/": [],
  "https://letraslibres.com/historia/feed/": [],
@@ -1405,7 +1407,9 @@
   "https://www.theguardian.com/commentisfree/2026/nov/04/pay-transparency-coworkers-earn-know-open-workers",
   "https://www.theguardian.com/commentisfree/2026/nov/04/pay-transparency-coworkers-earn-know-open-workers",
   "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees",
-  "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees"
+  "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees",
+  "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
+  "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
@@ -1587,7 +1591,9 @@
   "https://letraslibres.com/?p=163441",
   "https://letraslibres.com/politica/la-gran-ficcion-del-ascensor-social-con-hector-cebolla/04/11/2026",
   "https://letraslibres.com/?p=163519",
-  "https://letraslibres.com/politica/la-democracia-estadounidense-goza-de-plena-salud/04/11/2026"
+  "https://letraslibres.com/politica/la-democracia-estadounidense-goza-de-plena-salud/04/11/2026",
+  "https://letraslibres.com/?p=163524",
+  "https://letraslibres.com/politica/despues-de-la-ola-azul/04/11/2026"
  ],
  "https://cerosetenta.uniandes.edu.co/feed/": [
   "https://cerosetenta.uniandes.edu.co/?p=71405",
