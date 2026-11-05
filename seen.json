@@ -133,12 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/trump-promociono-acuerdo-petrolero-sin-precedentes-en-venezuela-ahora-la-realidad-se-impone-4515337",
-  "https://www.larepublica.co/globoeconomia/trump-promociono-acuerdo-petrolero-sin-precedentes-en-venezuela-ahora-la-realidad-se-impone-4515337",
-  "https://www.larepublica.co/empresas/eps-sanitas-detalla-sedes-para-entrega-de-medicinas-tras-cambio-de-cruz-verde-4515404",
-  "https://www.larepublica.co/empresas/eps-sanitas-detalla-sedes-para-entrega-de-medicinas-tras-cambio-de-cruz-verde-4515404",
-  "https://www.larepublica.co/empresas/claro-implemento-su-propia-red-troncal-de-transmision-en-la-region-de-vichada-4515427",
-  "https://www.larepublica.co/empresas/claro-implemento-su-propia-red-troncal-de-transmision-en-la-region-de-vichada-4515427",
   "https://www.larepublica.co/economia/el-gobierno-nacional-anuncio-que-mantiene-estables-los-precios-de-la-gasolina-y-acpm-4515626",
   "https://www.larepublica.co/economia/el-gobierno-nacional-anuncio-que-mantiene-estables-los-precios-de-la-gasolina-y-acpm-4515626",
   "https://www.larepublica.co/analisis/carlos-fernando-villa-gomez-400403/repasando-los-pecados-del-marketing-4515280",
@@ -732,7 +726,13 @@
   "https://www.larepublica.co/empresas/ingenio-providencia-cumple-100-anos-y-planea-duplicar-su-generacion-de-energia-electrica-4517802",
   "https://www.larepublica.co/empresas/ingenio-providencia-cumple-100-anos-y-planea-duplicar-su-generacion-de-energia-electrica-4517802",
   "https://www.larepublica.co/empresas/isa-reporto-ingresos-por-12-4-billones-a-septiembre-crecieron-8-anual-4517860",
-  "https://www.larepublica.co/empresas/isa-reporto-ingresos-por-12-4-billones-a-septiembre-crecieron-8-anual-4517860"
+  "https://www.larepublica.co/empresas/isa-reporto-ingresos-por-12-4-billones-a-septiembre-crecieron-8-anual-4517860",
+  "https://www.larepublica.co/empresas/mallplaza-reporto-ingresos-cercanos-a-us-532-6-millones-hasta-septiembre-4517643",
+  "https://www.larepublica.co/empresas/mallplaza-reporto-ingresos-cercanos-a-us-532-6-millones-hasta-septiembre-4517643",
+  "https://www.larepublica.co/economia/equipo-tecnico-de-banco-central-de-colombia-ve-mayor-inflacion-y-menor-crecimiento-economico-este-y-el-proximo-ano-4517960",
+  "https://www.larepublica.co/economia/equipo-tecnico-de-banco-central-de-colombia-ve-mayor-inflacion-y-menor-crecimiento-economico-este-y-el-proximo-ano-4517960",
+  "https://www.larepublica.co/globoeconomia/claude-reduce-la-ventaja-de-chatgpt-en-el-mercado-britanico-de-ia-4517967",
+  "https://www.larepublica.co/globoeconomia/claude-reduce-la-ventaja-de-chatgpt-en-el-mercado-britanico-de-ia-4517967"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -816,8 +816,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/commentisfree/picture/2026/oct/15/ben-jennings-reform-uk-council-candidates-nigel-farage-itv-cartoon",
-  "https://www.theguardian.com/commentisfree/picture/2026/oct/15/ben-jennings-reform-uk-council-candidates-nigel-farage-itv-cartoon",
   "https://www.theguardian.com/commentisfree/picture/2026/oct/16/martin-rowson-john-healey-first-budget-cartoon",
   "https://www.theguardian.com/commentisfree/picture/2026/oct/16/martin-rowson-john-healey-first-budget-cartoon",
   "https://www.theguardian.com/lifeandstyle/picture/2026/oct/19/politicians-tiktok-chasing-pingpong-ball-edith-pritchett-week-in-venn-diagrams-cartoon",
@@ -1415,7 +1413,9 @@
   "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
   "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
   "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
-  "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean"
+  "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
+  "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+  "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
