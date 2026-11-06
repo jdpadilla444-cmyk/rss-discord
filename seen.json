@@ -133,12 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/ocio/totalenergies-anuncia-alianzas-con-empresas-del-sector-transportador-4515731",
-  "https://www.larepublica.co/ocio/totalenergies-anuncia-alianzas-con-empresas-del-sector-transportador-4515731",
-  "https://www.larepublica.co/analisis/lewis-acuna-3441162/protocolos-4515520",
-  "https://www.larepublica.co/analisis/lewis-acuna-3441162/protocolos-4515520",
-  "https://www.larepublica.co/ocio/los-futbolistas-de-la-premier-league-obtienen-un-aplazamiento-de-la-recaudacion-de-impuestos-4515302",
-  "https://www.larepublica.co/ocio/los-futbolistas-de-la-premier-league-obtienen-un-aplazamiento-de-la-recaudacion-de-impuestos-4515302",
   "https://www.larepublica.co/analisis/alberto-carrasquilla-562150/desinflar-pretensiones-4516291",
   "https://www.larepublica.co/analisis/alberto-carrasquilla-562150/desinflar-pretensiones-4516291",
   "https://www.larepublica.co/consumo/comprar-frutas-y-verduras-en-plaza-o-supermercado-donde-sale-mas-barato-el-mercado-4515263",
@@ -732,7 +726,13 @@
   "https://www.larepublica.co/globoeconomia/escandalo-de-ueno-bank-tumbo-al-presidente-paraguayo-santiago-pena-4518840",
   "https://www.larepublica.co/globoeconomia/escandalo-de-ueno-bank-tumbo-al-presidente-paraguayo-santiago-pena-4518840",
   "https://www.larepublica.co/globoeconomia/de-19-millones-de-mujeres-en-edad-de-trabajar-50-participan-en-mercado-laboral-4518799",
-  "https://www.larepublica.co/globoeconomia/de-19-millones-de-mujeres-en-edad-de-trabajar-50-participan-en-mercado-laboral-4518799"
+  "https://www.larepublica.co/globoeconomia/de-19-millones-de-mujeres-en-edad-de-trabajar-50-participan-en-mercado-laboral-4518799",
+  "https://www.larepublica.co/especiales/la-ley-de-rescate/un-rescate-para-ganar-tiempo-4518513",
+  "https://www.larepublica.co/especiales/la-ley-de-rescate/un-rescate-para-ganar-tiempo-4518513",
+  "https://www.larepublica.co/empresas/sanitas-reporto-entrega-de-60-799-formulas-en-bogota-tras-cambio-de-operador-4518968",
+  "https://www.larepublica.co/empresas/sanitas-reporto-entrega-de-60-799-formulas-en-bogota-tras-cambio-de-operador-4518968",
+  "https://www.larepublica.co/globoeconomia/china-aprueba-una-ley-sobre-las-actividades-en-la-antartida-y-la-proteccion-del-medioambiente-4518966",
+  "https://www.larepublica.co/globoeconomia/china-aprueba-una-ley-sobre-las-actividades-en-la-antartida-y-la-proteccion-del-medioambiente-4518966"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -824,8 +824,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
-  "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
   "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
   "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
   "https://www.theguardian.com/society/2026/oct/20/neets-explainer-alan-milburn-young-people-work",
@@ -1423,7 +1421,9 @@
   "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
   "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
   "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-  "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news"
+  "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
+  "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
+  "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
@@ -1813,7 +1813,9 @@
   "https://cerosetenta.uniandes.edu.co/?p=73728",
   "https://cerosetenta.uniandes.edu.co/puntos-de-fuga-los-rastros-de-la-censura-visita-guiada-por-las-salas-censuradas-del-museo-nacional",
   "https://cerosetenta.uniandes.edu.co/?p=73739",
-  "https://cerosetenta.uniandes.edu.co/busqueda-inversa-cuando-es-el-cuerpo-el-que-busca-a-su-familia"
+  "https://cerosetenta.uniandes.edu.co/busqueda-inversa-cuando-es-el-cuerpo-el-que-busca-a-su-familia",
+  "https://cerosetenta.uniandes.edu.co/?p=73754",
+  "https://cerosetenta.uniandes.edu.co/bonus-track-edson-velandia-en-el-vagon-de-070"
  ],
  "https://news.google.com/rss/search?q=site:nuso.org&hl=es-419&gl=CO&ceid=CO:es-419": [
   "CBMifkFVX3lxTFA3cmF4UFY2RVhiaEUtWlJDWWtvcXp5aHZJNkVUc2prdnJtNi1xY2Y0enAxbVFHOU5Ra3NqbTBTX3NUWWE5bFMwUVF2NmRWV2I4SHFCQW8xc19KZlBFUDBGaHlaSnI3eGtyZFZBTVBWSVF3NU1SbXlzTkdfd3laZw",
