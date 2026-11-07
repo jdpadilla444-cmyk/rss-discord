@@ -133,8 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/finanzas/fna-bbva-y-av-villas-tienen-las-tasas-mas-bajas-en-pesos-y-uvr-para-credito-de-vivienda-4517089",
-  "https://www.larepublica.co/finanzas/fna-bbva-y-av-villas-tienen-las-tasas-mas-bajas-en-pesos-y-uvr-para-credito-de-vivienda-4517089",
   "https://www.larepublica.co/empresas/entrevista-con-renato-banhara-gerente-de-unilever-para-la-region-andina-4516848",
   "https://www.larepublica.co/empresas/entrevista-con-renato-banhara-gerente-de-unilever-para-la-region-andina-4516848",
   "https://www.larepublica.co/globoeconomia/aranceles-china-ia-e-iran-las-decisiones-en-juego-en-las-midterm-de-ee-uu-4517011",
@@ -732,7 +730,9 @@
   "https://www.larepublica.co/ocio/noche-de-regueton-con-reykon-en-bogota-4519397",
   "https://www.larepublica.co/ocio/noche-de-regueton-con-reykon-en-bogota-4519397",
   "https://www.larepublica.co/internet-economy/las-apps-ganan-terreno-mientras-baja-el-tiempo-de-navegacion-en-paginas-web-4519823",
-  "https://www.larepublica.co/internet-economy/las-apps-ganan-terreno-mientras-baja-el-tiempo-de-navegacion-en-paginas-web-4519823"
+  "https://www.larepublica.co/internet-economy/las-apps-ganan-terreno-mientras-baja-el-tiempo-de-navegacion-en-paginas-web-4519823",
+  "https://www.larepublica.co/ocio/subastan-una-de-las-primeras-fotografias-de-bogota-tomada-en-1842-por-hasta-us-89-000-4519837",
+  "https://www.larepublica.co/ocio/subastan-una-de-las-primeras-fotografias-de-bogota-tomada-en-1842-por-hasta-us-89-000-4519837"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -834,12 +834,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-  "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-  "https://www.theguardian.com/politics/2026/oct/20/nigel-farage-tired-bored-kemi-badenoch-conjures-telepathic-budget",
-  "https://www.theguardian.com/politics/2026/oct/20/nigel-farage-tired-bored-kemi-badenoch-conjures-telepathic-budget",
-  "https://www.theguardian.com/uk-news/2026/oct/20/two-men-re-arrested-on-suspicion-of-aiding-iran-over-raf-fairford-incident",
-  "https://www.theguardian.com/uk-news/2026/oct/20/two-men-re-arrested-on-suspicion-of-aiding-iran-over-raf-fairford-incident",
   "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
   "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
   "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
@@ -1433,7 +1427,13 @@
   "https://www.theguardian.com/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster",
   "https://www.theguardian.com/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster",
   "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-  "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
+  "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+  "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
+  "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
+  "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+  "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+  "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+  "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
