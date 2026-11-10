@@ -133,16 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/congreso-paraguayo-inicia-sesion-para-debatir-proceso-de-juicio-politico-al-presidente-pena-4518271",
-  "https://www.larepublica.co/globoeconomia/congreso-paraguayo-inicia-sesion-para-debatir-proceso-de-juicio-politico-al-presidente-pena-4518271",
-  "https://www.larepublica.co/globoeconomia/el-crudo-sube-mientras-los-inversores-sopesan-incertidumbre-por-guerra-irani-4518056",
-  "https://www.larepublica.co/globoeconomia/el-crudo-sube-mientras-los-inversores-sopesan-incertidumbre-por-guerra-irani-4518056",
-  "https://www.larepublica.co/finanzas/btg-pactual-y-cuantum-se-alian-para-dinamizar-liquidez-en-el-mercado-de-sentencias-judiciales-4518233",
-  "https://www.larepublica.co/finanzas/btg-pactual-y-cuantum-se-alian-para-dinamizar-liquidez-en-el-mercado-de-sentencias-judiciales-4518233",
-  "https://www.larepublica.co/finanzas/caf-coloco-en-la-bolsa-de-colombia-un-bono-verde-por-51-000-millones-a-cinco-anos-4518340",
-  "https://www.larepublica.co/finanzas/caf-coloco-en-la-bolsa-de-colombia-un-bono-verde-por-51-000-millones-a-cinco-anos-4518340",
-  "https://www.larepublica.co/globoeconomia/hammack-de-la-fed-aboga-por-una-trayectoria-gradual-de-alza-de-tasas-para-desacelerar-la-inflacion-4518349",
-  "https://www.larepublica.co/globoeconomia/hammack-de-la-fed-aboga-por-una-trayectoria-gradual-de-alza-de-tasas-para-desacelerar-la-inflacion-4518349",
   "https://www.larepublica.co/globoeconomia/lula-decidira-sobre-medidas-fiscales-tras-sus-viajes-al-extranjero-dice-ministro-de-hacienda-4518361",
   "https://www.larepublica.co/globoeconomia/lula-decidira-sobre-medidas-fiscales-tras-sus-viajes-al-extranjero-dice-ministro-de-hacienda-4518361",
   "https://www.larepublica.co/ocio/el-actor-ed-westwick-llegara-a-bogota-para-presentar-la-nueva-fragancia-de-afnan-perfumes-4518359",
@@ -732,7 +722,17 @@
   "https://www.larepublica.co/economia/el-dane-revelo-que-la-inflacion-en-el-decimo-mes-del-ano-llego-hasta-6-30-4520889",
   "https://www.larepublica.co/economia/el-dane-revelo-que-la-inflacion-en-el-decimo-mes-del-ano-llego-hasta-6-30-4520889",
   "https://www.larepublica.co/finanzas/grupo-cibest-registro-2-08-billones-de-utilidades-en-el-tercer-trimestre-aumento-23-81-4520838",
-  "https://www.larepublica.co/finanzas/grupo-cibest-registro-2-08-billones-de-utilidades-en-el-tercer-trimestre-aumento-23-81-4520838"
+  "https://www.larepublica.co/finanzas/grupo-cibest-registro-2-08-billones-de-utilidades-en-el-tercer-trimestre-aumento-23-81-4520838",
+  "https://www.larepublica.co/economia/sic-archivo-investigacion-contra-ecopetrol-y-helistar-por-contratos-aereos-4521022",
+  "https://www.larepublica.co/economia/sic-archivo-investigacion-contra-ecopetrol-y-helistar-por-contratos-aereos-4521022",
+  "https://www.larepublica.co/empresas/autoridades-afirman-que-hidroituango-alcanzo-la-cota-420-en-almacenamiento-4520786",
+  "https://www.larepublica.co/empresas/autoridades-afirman-que-hidroituango-alcanzo-la-cota-420-en-almacenamiento-4520786",
+  "https://www.larepublica.co/globoeconomia/exxon-firma-acuerdo-preliminar-con-venezuela-para-evaluar-oportunidades-petroleras-4521039",
+  "https://www.larepublica.co/globoeconomia/exxon-firma-acuerdo-preliminar-con-venezuela-para-evaluar-oportunidades-petroleras-4521039",
+  "https://www.larepublica.co/economia/colombia-estara-negociando-programa-de-prestamos-por-us-15-000-millones-con-el-fmi-4521038",
+  "https://www.larepublica.co/economia/colombia-estara-negociando-programa-de-prestamos-por-us-15-000-millones-con-el-fmi-4521038",
+  "https://www.larepublica.co/economia/ecopetrol-vende-bonos-por-valor-de-us-2-000-millones-en-su-primera-emision-en-dos-anos-4521045",
+  "https://www.larepublica.co/economia/ecopetrol-vende-bonos-por-valor-de-us-2-000-millones-en-su-primera-emision-en-dos-anos-4521045"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -821,7 +821,9 @@
   "65115 at https://www.elcato.org",
   "https://www.elcato.org/las-buenas-instituciones-necesitan-buenas-personas",
   "65116 at https://www.elcato.org",
-  "https://www.elcato.org/el-sector-privado-de-estados-unidos-esta-listo-para-construir-allanara-washington-el-camino-con-una"
+  "https://www.elcato.org/el-sector-privado-de-estados-unidos-esta-listo-para-construir-allanara-washington-el-camino-con-una",
+  "65117 at https://www.elcato.org",
+  "https://www.elcato.org/cien-anos-de-malas-companias-parte-1"
  ],
  "https://letraslibres.com/politica/feed/": [],
  "https://letraslibres.com/historia/feed/": [],
