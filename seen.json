@@ -133,8 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/las-advertencias-al-sistema-financiero-de-moody-s-tras-colapso-de-ueno-bank-4518675",
-  "https://www.larepublica.co/globoeconomia/las-advertencias-al-sistema-financiero-de-moody-s-tras-colapso-de-ueno-bank-4518675",
   "https://www.larepublica.co/globoeconomia/pena-se-defendera-ante-juicio-politico-tras-renuncia-por-escandalo-ueno-bank-4518775",
   "https://www.larepublica.co/globoeconomia/pena-se-defendera-ante-juicio-politico-tras-renuncia-por-escandalo-ueno-bank-4518775",
   "https://www.larepublica.co/empresas/nombran-a-sonia-margarita-abuchar-como-presidenta-encargada-de-isa-4518791",
@@ -732,7 +730,9 @@
   "https://www.larepublica.co/responsabilidad-social/consejos-para-ahorrar-energia-en-navidad-y-evitar-que-aumente-la-factura-de-luz-en-diciembre-4520825",
   "https://www.larepublica.co/responsabilidad-social/consejos-para-ahorrar-energia-en-navidad-y-evitar-que-aumente-la-factura-de-luz-en-diciembre-4520825",
   "https://www.larepublica.co/globoeconomia/nvidia-borra-us-400-000-millones-de-valor-de-mercado-tras-escandalo-huang-4521013",
-  "https://www.larepublica.co/globoeconomia/nvidia-borra-us-400-000-millones-de-valor-de-mercado-tras-escandalo-huang-4521013"
+  "https://www.larepublica.co/globoeconomia/nvidia-borra-us-400-000-millones-de-valor-de-mercado-tras-escandalo-huang-4521013",
+  "https://www.larepublica.co/finanzas/asi-estan-las-tasas-de-interes-de-las-tarjetas-de-credito-para-anticipar-sus-gastos-navidenos-4520897",
+  "https://www.larepublica.co/finanzas/asi-estan-las-tasas-de-interes-de-las-tarjetas-de-credito-para-anticipar-sus-gastos-navidenos-4520897"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -840,10 +840,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
-  "https://www.theguardian.com/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
-  "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
-  "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
   "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
   "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
   "https://www.theguardian.com/news/audio/2026/oct/22/are-the-tories-back-podcast",
@@ -1439,7 +1435,11 @@
   "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
   "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
   "https://www.theguardian.com/commentisfree/2026/nov/10/britain-gen-z-war-right-young-people-protect",
-  "https://www.theguardian.com/commentisfree/2026/nov/10/britain-gen-z-war-right-young-people-protect"
+  "https://www.theguardian.com/commentisfree/2026/nov/10/britain-gen-z-war-right-young-people-protect",
+  "https://www.theguardian.com/commentisfree/2026/nov/10/trump-supporting-uk-right-dishonest-british-rightwing-commentators-maga",
+  "https://www.theguardian.com/commentisfree/2026/nov/10/trump-supporting-uk-right-dishonest-british-rightwing-commentators-maga",
+  "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+  "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
