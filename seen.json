@@ -133,18 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/de-19-millones-de-mujeres-en-edad-de-trabajar-50-participan-en-mercado-laboral-4518799",
-  "https://www.larepublica.co/globoeconomia/de-19-millones-de-mujeres-en-edad-de-trabajar-50-participan-en-mercado-laboral-4518799",
-  "https://www.larepublica.co/especiales/la-ley-de-rescate/un-rescate-para-ganar-tiempo-4518513",
-  "https://www.larepublica.co/especiales/la-ley-de-rescate/un-rescate-para-ganar-tiempo-4518513",
-  "https://www.larepublica.co/empresas/sanitas-reporto-entrega-de-60-799-formulas-en-bogota-tras-cambio-de-operador-4518968",
-  "https://www.larepublica.co/empresas/sanitas-reporto-entrega-de-60-799-formulas-en-bogota-tras-cambio-de-operador-4518968",
-  "https://www.larepublica.co/globoeconomia/china-aprueba-una-ley-sobre-las-actividades-en-la-antartida-y-la-proteccion-del-medioambiente-4518966",
-  "https://www.larepublica.co/globoeconomia/china-aprueba-una-ley-sobre-las-actividades-en-la-antartida-y-la-proteccion-del-medioambiente-4518966",
-  "https://www.larepublica.co/especiales/la-ley-de-rescate/costos-del-entretenimiento-bajo-la-lupa-por-el-impacto-de-la-reforma-tributaria-4518973",
-  "https://www.larepublica.co/especiales/la-ley-de-rescate/costos-del-entretenimiento-bajo-la-lupa-por-el-impacto-de-la-reforma-tributaria-4518973",
-  "https://www.larepublica.co/empresas/la-devolucion-del-dinero-lidera-solicitudes-en-sic-facilita-que-supera-440-000-reclamaciones-4518982",
-  "https://www.larepublica.co/empresas/la-devolucion-del-dinero-lidera-solicitudes-en-sic-facilita-que-supera-440-000-reclamaciones-4518982",
   "https://www.larepublica.co/ocio/tecatito-corona-regresa-a-la-seleccion-mexicana-para-la-liga-de-naciones-de-la-concacaf-4518984",
   "https://www.larepublica.co/ocio/tecatito-corona-regresa-a-la-seleccion-mexicana-para-la-liga-de-naciones-de-la-concacaf-4518984",
   "https://www.larepublica.co/globoeconomia/el-crudo-se-encamina-a-fuerte-caida-semanal-tras-elecciones-medio-mandato-en-ee-uu-4518972",
@@ -732,7 +720,19 @@
   "https://www.larepublica.co/economia/abelardo-de-la-espriella-declaro-insubsistente-a-elizabeth-blandon-directora-del-icfes-4521481",
   "https://www.larepublica.co/economia/abelardo-de-la-espriella-declaro-insubsistente-a-elizabeth-blandon-directora-del-icfes-4521481",
   "https://www.larepublica.co/empresas/humo-blanco-en-la-andi-luz-stella-murgas-fue-elegida-para-presidir-la-asociacion-4521528",
-  "https://www.larepublica.co/empresas/humo-blanco-en-la-andi-luz-stella-murgas-fue-elegida-para-presidir-la-asociacion-4521528"
+  "https://www.larepublica.co/empresas/humo-blanco-en-la-andi-luz-stella-murgas-fue-elegida-para-presidir-la-asociacion-4521528",
+  "https://www.larepublica.co/globoeconomia/camioneros-bloquean-rutas-en-chile-en-protesta-por-alza-de-combustible-4521566",
+  "https://www.larepublica.co/globoeconomia/camioneros-bloquean-rutas-en-chile-en-protesta-por-alza-de-combustible-4521566",
+  "https://www.larepublica.co/globoeconomia/acs-compra-voltan-para-reforzar-sus-capacidades-industriales-y-energeticas-4521585",
+  "https://www.larepublica.co/globoeconomia/acs-compra-voltan-para-reforzar-sus-capacidades-industriales-y-energeticas-4521585",
+  "https://www.larepublica.co/finanzas/colpensiones-recaudo-2-02-billones-y-garantiza-pago-a-cerca-de-1-952-368-pensionados-4521526",
+  "https://www.larepublica.co/finanzas/colpensiones-recaudo-2-02-billones-y-garantiza-pago-a-cerca-de-1-952-368-pensionados-4521526",
+  "https://www.larepublica.co/finanzas/multiples-usuarios-reportan-caida-en-los-servicios-de-davibank-4521568",
+  "https://www.larepublica.co/finanzas/multiples-usuarios-reportan-caida-en-los-servicios-de-davibank-4521568",
+  "https://www.larepublica.co/globoeconomia/nicolas-maduro-reporta-perdida-de-peso-y-cambio-de-habitos-en-prision-de-estados-unidos-4521600",
+  "https://www.larepublica.co/globoeconomia/nicolas-maduro-reporta-perdida-de-peso-y-cambio-de-habitos-en-prision-de-estados-unidos-4521600",
+  "https://www.larepublica.co/globoeconomia/espana-exige-que-tiktok-pare-operaciones-por-material-de-abuso-sexual-infantil-4521651",
+  "https://www.larepublica.co/globoeconomia/espana-exige-que-tiktok-pare-operaciones-por-material-de-abuso-sexual-infantil-4521651"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -842,8 +842,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/politics/2026/oct/22/downing-street-advisers-andy-burnham-ai",
-  "https://www.theguardian.com/politics/2026/oct/22/downing-street-advisers-andy-burnham-ai",
   "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
   "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
   "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
@@ -1441,7 +1439,9 @@
   "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
   "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
   "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-  "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"
+  "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+  "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed",
+  "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
@@ -1651,7 +1651,11 @@
   "https://letraslibres.com/?p=163641",
   "https://letraslibres.com/cultura/la-crisis-del-posdramatico/10/11/2026",
   "https://letraslibres.com/?p=163650",
-  "https://letraslibres.com/literatura/notas-sobre-svalbard/10/11/2026"
+  "https://letraslibres.com/literatura/notas-sobre-svalbard/10/11/2026",
+  "https://letraslibres.com/?p=163665",
+  "https://letraslibres.com/economia/la-empresa-que-se-atreve-a-hacer-menos/10/11/2026",
+  "https://letraslibres.com/?p=163669",
+  "https://letraslibres.com/ideas/las-cinco-olas-de-la-teologia-politica/10/11/2026"
  ],
  "https://cerosetenta.uniandes.edu.co/feed/": [
   "https://cerosetenta.uniandes.edu.co/?p=71405",
