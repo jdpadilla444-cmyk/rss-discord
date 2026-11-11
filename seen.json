@@ -133,14 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/las-razones-detras-de-la-renuncia-de-santiago-pena-y-el-escandalo-de-ueno-bank-4519043",
-  "https://www.larepublica.co/globoeconomia/las-razones-detras-de-la-renuncia-de-santiago-pena-y-el-escandalo-de-ueno-bank-4519043",
-  "https://www.larepublica.co/finanzas/epm-regreso-al-mercado-internacional-de-capitales-con-emision-de-bonos-por-us-1-000-millones-4518978",
-  "https://www.larepublica.co/finanzas/epm-regreso-al-mercado-internacional-de-capitales-con-emision-de-bonos-por-us-1-000-millones-4518978",
-  "https://www.larepublica.co/economia/ministerio-de-trabajo-activo-medidas-para-empleados-y-mipymes-afectadas-por-el-sismo-4519065",
-  "https://www.larepublica.co/economia/ministerio-de-trabajo-activo-medidas-para-empleados-y-mipymes-afectadas-por-el-sismo-4519065",
-  "https://www.larepublica.co/globoeconomia/la-caida-del-bitcoin-se-modera-a-medida-que-los-inversores-exploran-una-recuperacion-4519059",
-  "https://www.larepublica.co/globoeconomia/la-caida-del-bitcoin-se-modera-a-medida-que-los-inversores-exploran-una-recuperacion-4519059",
   "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-6-de-noviembre-de-2026-4519021",
   "https://www.larepublica.co/finanzas/precios-del-dolar-y-del-petroleo-hoy-6-de-noviembre-de-2026-4519021",
   "https://www.larepublica.co/ocio/chocoshow-2026-llegara-a-bogota-con-una-escultura-de-chocolate-de-mas-de-350-kilos-4519042",
@@ -732,7 +724,15 @@
   "https://www.larepublica.co/finanzas/superfinanciero-pide-a-fiduciarias-convertirse-en-protagonistas-de-la-reconstruccion-tras-sismo-4521806",
   "https://www.larepublica.co/finanzas/superfinanciero-pide-a-fiduciarias-convertirse-en-protagonistas-de-la-reconstruccion-tras-sismo-4521806",
   "https://www.larepublica.co/finanzas/revolut-business-anuncio-alianza-con-el-sistema-con-uso-de-ia-yuno-para-agilizar-pagos-4520856",
-  "https://www.larepublica.co/finanzas/revolut-business-anuncio-alianza-con-el-sistema-con-uso-de-ia-yuno-para-agilizar-pagos-4520856"
+  "https://www.larepublica.co/finanzas/revolut-business-anuncio-alianza-con-el-sistema-con-uso-de-ia-yuno-para-agilizar-pagos-4520856",
+  "https://www.larepublica.co/empresas/grupo-exito-reporto-ingresos-por-15-8-billones-con-corte-a-septiembre-4521927",
+  "https://www.larepublica.co/empresas/grupo-exito-reporto-ingresos-por-15-8-billones-con-corte-a-septiembre-4521927",
+  "https://www.larepublica.co/economia/bienes-y-servicios-que-podrian-subir-de-precio-durante-las-primeras-semanas-de-2027-4521322",
+  "https://www.larepublica.co/economia/bienes-y-servicios-que-podrian-subir-de-precio-durante-las-primeras-semanas-de-2027-4521322",
+  "https://www.larepublica.co/empresas/inversion-de-millicom-en-colombia-4522185",
+  "https://www.larepublica.co/empresas/inversion-de-millicom-en-colombia-4522185",
+  "https://www.larepublica.co/globoeconomia/parlamento-venezolano-aprueba-reforma-que-abre-sector-electrico-a-la-inversion-privada-4522165",
+  "https://www.larepublica.co/globoeconomia/parlamento-venezolano-aprueba-reforma-que-abre-sector-electrico-a-la-inversion-privada-4522165"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -842,8 +842,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-  "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
   "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
   "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
   "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
@@ -1441,7 +1439,9 @@
   "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
   "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
   "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed",
-  "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed"
+  "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed",
+  "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+  "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
