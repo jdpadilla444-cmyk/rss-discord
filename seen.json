@@ -133,16 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/finanzas/entrevista-con-daniela-konietzko-presidenta-de-la-fundacion-wwb-4519601",
-  "https://www.larepublica.co/finanzas/entrevista-con-daniela-konietzko-presidenta-de-la-fundacion-wwb-4519601",
-  "https://www.larepublica.co/economia/inside-lr-con-armando-ojeda-acosta-director-de-la-uaeps-sobre-el-modelo-de-aseo-en-bogota-4518544",
-  "https://www.larepublica.co/economia/inside-lr-con-armando-ojeda-acosta-director-de-la-uaeps-sobre-el-modelo-de-aseo-en-bogota-4518544",
-  "https://www.larepublica.co/ocio/be-cla-el-movimiento-que-concientiza-para-amar-y-respetar-el-medio-ambiente-4519631",
-  "https://www.larepublica.co/ocio/be-cla-el-movimiento-que-concientiza-para-amar-y-respetar-el-medio-ambiente-4519631",
-  "https://www.larepublica.co/analisis/p-harold-castilla-devoz-2912463/lo-que-la-generacion-z-europea-le-advierte-a-colombia-4519680",
-  "https://www.larepublica.co/analisis/p-harold-castilla-devoz-2912463/lo-que-la-generacion-z-europea-le-advierte-a-colombia-4519680",
-  "https://www.larepublica.co/analisis/amylkar-d-acosta-m-557896/sin-carbon-no-hay-paraiso-4519667",
-  "https://www.larepublica.co/analisis/amylkar-d-acosta-m-557896/sin-carbon-no-hay-paraiso-4519667",
   "https://www.larepublica.co/finanzas/de-cada-10-trabajadores-de-economia-colaborativa-cuatro-tienen-dificultades-de-pago-4519628",
   "https://www.larepublica.co/finanzas/de-cada-10-trabajadores-de-economia-colaborativa-cuatro-tienen-dificultades-de-pago-4519628",
   "https://www.larepublica.co/empresas/agroventure-capital-busca-capital-para-ampliar-su-cultivo-de-arandanos-4519594",
@@ -732,7 +722,17 @@
   "https://www.larepublica.co/finanzas/el-oro-repunta-tras-fuerte-caida-pero-es-lastrado-por-las-senales-restrictivas-de-la-fed-4522558",
   "https://www.larepublica.co/finanzas/el-oro-repunta-tras-fuerte-caida-pero-es-lastrado-por-las-senales-restrictivas-de-la-fed-4522558",
   "https://www.larepublica.co/globoeconomia/chile-retira-proyecto-de-alivio-a-precios-de-combustibles-mientras-paro-continua-4522601",
-  "https://www.larepublica.co/globoeconomia/chile-retira-proyecto-de-alivio-a-precios-de-combustibles-mientras-paro-continua-4522601"
+  "https://www.larepublica.co/globoeconomia/chile-retira-proyecto-de-alivio-a-precios-de-combustibles-mientras-paro-continua-4522601",
+  "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-11-de-noviembre-4522342",
+  "https://www.larepublica.co/finanzas/precio-del-dolar-y-del-petroleo-hoy-11-de-noviembre-4522342",
+  "https://www.larepublica.co/globoeconomia/el-partido-colorado-expulsa-al-exmandatario-pena-de-sus-filas-por-el-caso-ueno-bank-4522629",
+  "https://www.larepublica.co/globoeconomia/el-partido-colorado-expulsa-al-exmandatario-pena-de-sus-filas-por-el-caso-ueno-bank-4522629",
+  "https://www.larepublica.co/empresas/audifarma-desembolso-primeros-140-000-millones-para-saldar-pasivos-con-proveedores-4522623",
+  "https://www.larepublica.co/empresas/audifarma-desembolso-primeros-140-000-millones-para-saldar-pasivos-con-proveedores-4522623",
+  "https://www.larepublica.co/empresas/resultados-empresariales-de-colombina-en-el-tercer-trimestre-de-2026-4522462",
+  "https://www.larepublica.co/empresas/resultados-empresariales-de-colombina-en-el-tercer-trimestre-de-2026-4522462",
+  "https://www.larepublica.co/economia/ecopetrol-habria-invertido-mas-de-us-85-millones-en-un-pozo-de-gas-que-resulto-seco-4522653",
+  "https://www.larepublica.co/economia/ecopetrol-habria-invertido-mas-de-us-85-millones-en-un-pozo-de-gas-que-resulto-seco-4522653"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -846,8 +846,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
-  "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
   "https://www.theguardian.com/commentisfree/2026/oct/23/tory-party-kemi-badenoch-quit-andrew-boff",
   "https://www.theguardian.com/commentisfree/2026/oct/23/tory-party-kemi-badenoch-quit-andrew-boff",
   "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
@@ -1445,7 +1443,9 @@
   "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
   "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
   "https://www.theguardian.com/world/2026/nov/11/bridget-phillipson-kemi-badenoch-lgbt-people-conversion-therapy",
-  "https://www.theguardian.com/world/2026/nov/11/bridget-phillipson-kemi-badenoch-lgbt-people-conversion-therapy"
+  "https://www.theguardian.com/world/2026/nov/11/bridget-phillipson-kemi-badenoch-lgbt-people-conversion-therapy",
+  "https://www.theguardian.com/commentisfree/2026/nov/11/the-guardian-view-on-welfare-reform-time-to-retire-lazy-myths-and-stereotypes",
+  "https://www.theguardian.com/commentisfree/2026/nov/11/the-guardian-view-on-welfare-reform-time-to-retire-lazy-myths-and-stereotypes"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
