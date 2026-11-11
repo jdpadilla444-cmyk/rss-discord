@@ -133,16 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/finanzas/fundacion-wwb-colombia-y-a2censo-se-aliaron-para-facilitar-el-acceso-al-credito-4519187",
-  "https://www.larepublica.co/finanzas/fundacion-wwb-colombia-y-a2censo-se-aliaron-para-facilitar-el-acceso-al-credito-4519187",
-  "https://www.larepublica.co/empresas/impuesto-a-las-tiendas-afectaria-con-mas-fuerza-a-los-hogares-de-menores-ingresos-4519496",
-  "https://www.larepublica.co/empresas/impuesto-a-las-tiendas-afectaria-con-mas-fuerza-a-los-hogares-de-menores-ingresos-4519496",
-  "https://www.larepublica.co/ocio/masglo-lanza-una-coleccion-de-unas-con-texturas-inspiradas-en-el-bienestar-emocional-4519516",
-  "https://www.larepublica.co/ocio/masglo-lanza-una-coleccion-de-unas-con-texturas-inspiradas-en-el-bienestar-emocional-4519516",
-  "https://www.larepublica.co/empresas/cencosud-reporto-ingresos-por-us-4-644-millones-para-el-tercer-trimestre-4519302",
-  "https://www.larepublica.co/empresas/cencosud-reporto-ingresos-por-us-4-644-millones-para-el-tercer-trimestre-4519302",
-  "https://www.larepublica.co/globoeconomia/pedro-alliana-asume-la-presidencia-de-paraguay-tras-la-destitucion-de-santiago-pena-4519567",
-  "https://www.larepublica.co/globoeconomia/pedro-alliana-asume-la-presidencia-de-paraguay-tras-la-destitucion-de-santiago-pena-4519567",
   "https://www.larepublica.co/globoeconomia/fiscalia-ordena-la-detencion-de-santiago-pena-y-carlos-carvallo-por-el-caso-ueno-bank-4519571",
   "https://www.larepublica.co/globoeconomia/fiscalia-ordena-la-detencion-de-santiago-pena-y-carlos-carvallo-por-el-caso-ueno-bank-4519571",
   "https://www.larepublica.co/globoeconomia/el-bce-pide-a-los-bancos-que-revisen-sus-modelos-de-gobernanza-para-controlar-la-ia-4519584",
@@ -732,7 +722,17 @@
   "https://www.larepublica.co/globoeconomia/al-menos-300-colegios-italianos-evacuados-tras-recibir-alertas-de-bomba-por-correo-electronico-4522319",
   "https://www.larepublica.co/globoeconomia/al-menos-300-colegios-italianos-evacuados-tras-recibir-alertas-de-bomba-por-correo-electronico-4522319",
   "https://www.larepublica.co/ocio/jamie-campbell-bower-cumple-un-sueno-de-infancia-al-sumarse-a-la-serie-de-el-senor-de-los-anillos-4522323",
-  "https://www.larepublica.co/ocio/jamie-campbell-bower-cumple-un-sueno-de-infancia-al-sumarse-a-la-serie-de-el-senor-de-los-anillos-4522323"
+  "https://www.larepublica.co/ocio/jamie-campbell-bower-cumple-un-sueno-de-infancia-al-sumarse-a-la-serie-de-el-senor-de-los-anillos-4522323",
+  "https://www.larepublica.co/empresas/luz-stella-murgas-plantea-una-agenda-empresarial-centrada-en-dialogo-inversion-y-empleo-4522333",
+  "https://www.larepublica.co/empresas/luz-stella-murgas-plantea-una-agenda-empresarial-centrada-en-dialogo-inversion-y-empleo-4522333",
+  "https://www.larepublica.co/ocio/maluma-iniciara-su-gira-mundial-en-bogota-con-cuatro-conciertos-en-febrero-de-2027-4522328",
+  "https://www.larepublica.co/ocio/maluma-iniciara-su-gira-mundial-en-bogota-con-cuatro-conciertos-en-febrero-de-2027-4522328",
+  "https://www.larepublica.co/economia/ideam-advierte-sobre-lluvias-en-varias-zonas-del-pais-para-este-miercoles-11-de-noviembre-4522340",
+  "https://www.larepublica.co/economia/ideam-advierte-sobre-lluvias-en-varias-zonas-del-pais-para-este-miercoles-11-de-noviembre-4522340",
+  "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-busca-cambiar-los-estratos-y-el-cobro-de-los-servicios-publicos-4522289",
+  "https://www.larepublica.co/economia/gobierno-de-de-la-espriella-busca-cambiar-los-estratos-y-el-cobro-de-los-servicios-publicos-4522289",
+  "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-11-de-noviembre-de-2026-4522342",
+  "https://www.larepublica.co/finanzas/precios-del-dolar-y-el-petroleo-hoy-11-de-noviembre-de-2026-4522342"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -825,7 +825,11 @@
   "65117 at https://www.elcato.org",
   "https://www.elcato.org/cien-anos-de-malas-companias-parte-1",
   "65121 at https://www.elcato.org",
-  "https://www.elcato.org/la-crisis-en-paraguay-los-banqueros-y-la-politica"
+  "https://www.elcato.org/la-crisis-en-paraguay-los-banqueros-y-la-politica",
+  "65122 at https://www.elcato.org",
+  "https://www.elcato.org/trump-y-las-americas",
+  "65123 at https://www.elcato.org",
+  "https://www.elcato.org/se-esta-ampliando-la-vigilancia-financiera-en-la-frontera-sur"
  ],
  "https://letraslibres.com/politica/feed/": [],
  "https://letraslibres.com/historia/feed/": [],
@@ -842,8 +846,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
-  "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
   "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
   "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
   "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
@@ -1441,7 +1443,9 @@
   "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
   "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
   "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
-  "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield"
+  "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+  "https://www.theguardian.com/commentisfree/2026/nov/11/how-fix-broken-britain-public-better",
+  "https://www.theguardian.com/commentisfree/2026/nov/11/how-fix-broken-britain-public-better"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
