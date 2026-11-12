@@ -133,8 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/globoeconomia/protestas-en-quito-ecuador-contra-el-gobierno-del-presidente-daniel-noboa-4520208",
-  "https://www.larepublica.co/globoeconomia/protestas-en-quito-ecuador-contra-el-gobierno-del-presidente-daniel-noboa-4520208",
   "https://www.larepublica.co/globoeconomia/puerto-de-us-260-millones-divide-a-magnates-estadounidenses-en-panama-4520233",
   "https://www.larepublica.co/globoeconomia/puerto-de-us-260-millones-divide-a-magnates-estadounidenses-en-panama-4520233",
   "https://www.larepublica.co/analisis/sergio-clavijo-500041/bolivar-caudillismo-federalismo-y-geografia-4520101",
@@ -732,7 +730,9 @@
   "https://www.larepublica.co/globoeconomia/deficit-de-vivienda-trae-la-primera-huelga-general-en-espana-en-14-anos-4522953",
   "https://www.larepublica.co/globoeconomia/deficit-de-vivienda-trae-la-primera-huelga-general-en-espana-en-14-anos-4522953",
   "https://www.larepublica.co/globoeconomia/colombia-fue-la-sexta-economia-con-la-mayor-tasa-desempleo-del-bloque-ocde-4523003",
-  "https://www.larepublica.co/globoeconomia/colombia-fue-la-sexta-economia-con-la-mayor-tasa-desempleo-del-bloque-ocde-4523003"
+  "https://www.larepublica.co/globoeconomia/colombia-fue-la-sexta-economia-con-la-mayor-tasa-desempleo-del-bloque-ocde-4523003",
+  "https://www.larepublica.co/ocio/el-manchester-united-destituye-a-carrick-con-el-equipo-en-zona-de-descenso-4523134",
+  "https://www.larepublica.co/ocio/el-manchester-united-destituye-a-carrick-con-el-equipo-en-zona-de-descenso-4523134"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -831,7 +831,11 @@
   "65123 at https://www.elcato.org",
   "https://www.elcato.org/se-esta-ampliando-la-vigilancia-financiera-en-la-frontera-sur",
   "65126 at https://www.elcato.org",
-  "https://www.elcato.org/el-movil-perpetuo-fiscal"
+  "https://www.elcato.org/el-movil-perpetuo-fiscal",
+  "65124 at https://www.elcato.org",
+  "https://www.elcato.org/los-democratas-ganaron-la-discusion-sobre-los-aranceles-ahora-viene-la-parte-dificil-pero-necesaria",
+  "65127 at https://www.elcato.org",
+  "https://www.elcato.org/ahora-es-un-buen-momento-para-poner-fin-las-malas-politicas-migratorias"
  ],
  "https://letraslibres.com/politica/feed/": [],
  "https://letraslibres.com/historia/feed/": [],
@@ -848,10 +852,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/commentisfree/picture/2026/oct/23/martin-rowson-cartoon-jackdaw-gasfield-andy-burnham-labour-climate-crisis",
-  "https://www.theguardian.com/commentisfree/picture/2026/oct/23/martin-rowson-cartoon-jackdaw-gasfield-andy-burnham-labour-climate-crisis",
-  "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks",
-  "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks",
   "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
   "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
   "https://www.theguardian.com/society/2026/oct/23/realistic-and-reassuring-uk-public-responding-calmly-to-be-ready-campaign",
@@ -1447,7 +1447,11 @@
   "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
   "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
   "https://www.theguardian.com/commentisfree/2026/nov/12/brexits-gains-were-a-fiction-its-harms-are-real-we-dont-have-to-go-on-living-in-this-nightmare",
-  "https://www.theguardian.com/commentisfree/2026/nov/12/brexits-gains-were-a-fiction-its-harms-are-real-we-dont-have-to-go-on-living-in-this-nightmare"
+  "https://www.theguardian.com/commentisfree/2026/nov/12/brexits-gains-were-a-fiction-its-harms-are-real-we-dont-have-to-go-on-living-in-this-nightmare",
+  "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
+  "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
+  "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+  "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
@@ -1877,7 +1881,9 @@
   "https://cerosetenta.uniandes.edu.co/?p=73757",
   "https://cerosetenta.uniandes.edu.co/pantallas-concreto-estan-tapando-cerros-bogota-edificios-pot",
   "https://cerosetenta.uniandes.edu.co/?p=73787",
-  "https://cerosetenta.uniandes.edu.co/podcast-cancionero-desigualdad-todo-regalao-justicia-fiscal"
+  "https://cerosetenta.uniandes.edu.co/podcast-cancionero-desigualdad-todo-regalao-justicia-fiscal",
+  "https://cerosetenta.uniandes.edu.co/?p=73794",
+  "https://cerosetenta.uniandes.edu.co/puntos-de-fuga-la-infinita-prodigialidad-de-lo-viviente"
  ],
  "https://news.google.com/rss/search?q=site:nuso.org&hl=es-419&gl=CO&ceid=CO:es-419": [
   "CBMifkFVX3lxTFA3cmF4UFY2RVhiaEUtWlJDWWtvcXp5aHZJNkVUc2prdnJtNi1xY2Y0enAxbVFHOU5Ra3NqbTBTX3NUWWE5bFMwUVF2NmRWV2I4SHFCQW8xc19KZlBFUDBGaHlaSnI3eGtyZFZBTVBWSVF3NU1SbXlzTkdfd3laZw",
