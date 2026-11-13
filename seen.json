@@ -133,14 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/ocio/grupo-amarey-recibio-el-premio-iberoamericano-de-la-calidad-en-madrid-4520930",
-  "https://www.larepublica.co/ocio/grupo-amarey-recibio-el-premio-iberoamericano-de-la-calidad-en-madrid-4520930",
-  "https://www.larepublica.co/analisis/andres-guillen-g-3837549/accionistas-de-hecho-un-vacio-4521002",
-  "https://www.larepublica.co/analisis/andres-guillen-g-3837549/accionistas-de-hecho-un-vacio-4521002",
-  "https://www.larepublica.co/opinion/editorial/cinco-caminos-que-debe-seguir-la-tributaria-4520710",
-  "https://www.larepublica.co/opinion/editorial/cinco-caminos-que-debe-seguir-la-tributaria-4520710",
-  "https://www.larepublica.co/analisis/andres-felipe-londono-3399332/un-dia-cualquiera-en-crisis-fiscal-4521033",
-  "https://www.larepublica.co/analisis/andres-felipe-londono-3399332/un-dia-cualquiera-en-crisis-fiscal-4521033",
   "https://www.larepublica.co/empresas/entrevista-con-fabian-lombardo-presidente-y-ceo-de-aerolineas-argentinas-4520713",
   "https://www.larepublica.co/empresas/entrevista-con-fabian-lombardo-presidente-y-ceo-de-aerolineas-argentinas-4520713",
   "https://www.larepublica.co/analisis/natasha-avendano-3083918/el-legado-imborrable-de-la-madrina-del-rio-bogota-4521009",
@@ -732,7 +724,15 @@
   "https://www.larepublica.co/globoeconomia/colombia-es-el-sexto-pais-con-el-mayor-riesgo-de-inversion-en-america-latina-4524171",
   "https://www.larepublica.co/globoeconomia/colombia-es-el-sexto-pais-con-el-mayor-riesgo-de-inversion-en-america-latina-4524171",
   "https://www.larepublica.co/globoeconomia/la-salida-de-huang-y-dudas-de-eeuu-arriesgan-3-000-millones-en-proyectos-chinos-de-ia-4524190",
-  "https://www.larepublica.co/globoeconomia/la-salida-de-huang-y-dudas-de-eeuu-arriesgan-3-000-millones-en-proyectos-chinos-de-ia-4524190"
+  "https://www.larepublica.co/globoeconomia/la-salida-de-huang-y-dudas-de-eeuu-arriesgan-3-000-millones-en-proyectos-chinos-de-ia-4524190",
+  "https://www.larepublica.co/globoeconomia/a-dias-de-las-elecciones-sanchez-enfrenta-el-desencanto-de-la-izquierda-espanola-4524247",
+  "https://www.larepublica.co/globoeconomia/a-dias-de-las-elecciones-sanchez-enfrenta-el-desencanto-de-la-izquierda-espanola-4524247",
+  "https://www.larepublica.co/globoeconomia/pueblo-del-norte-de-peru-espera-que-el-papa-leon-reconozca-milagro-de-hace-cuatro-siglos-4524255",
+  "https://www.larepublica.co/globoeconomia/pueblo-del-norte-de-peru-espera-que-el-papa-leon-reconozca-milagro-de-hace-cuatro-siglos-4524255",
+  "https://www.larepublica.co/economia/el-antiguo-hotel-augusta-se-usara-para-proyecto-de-133-viviendas-en-bogota-4524245",
+  "https://www.larepublica.co/economia/el-antiguo-hotel-augusta-se-usara-para-proyecto-de-133-viviendas-en-bogota-4524245",
+  "https://www.larepublica.co/globoeconomia/la-desaprobacion-del-gobierno-de-orsi-baja-cinco-puntos-pero-sigue-en-52-4524268",
+  "https://www.larepublica.co/globoeconomia/la-desaprobacion-del-gobierno-de-orsi-baja-cinco-puntos-pero-sigue-en-52-4524268"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -835,7 +835,11 @@
   "65124 at https://www.elcato.org",
   "https://www.elcato.org/los-democratas-ganaron-la-discusion-sobre-los-aranceles-ahora-viene-la-parte-dificil-pero-necesaria",
   "65127 at https://www.elcato.org",
-  "https://www.elcato.org/ahora-es-un-buen-momento-para-poner-fin-las-malas-politicas-migratorias"
+  "https://www.elcato.org/ahora-es-un-buen-momento-para-poner-fin-las-malas-politicas-migratorias",
+  "65128 at https://www.elcato.org",
+  "https://www.elcato.org/el-factor-humano-por-que-la-tecnologia-destruye-empleos-y-crea-otros-mejores",
+  "65125 at https://www.elcato.org",
+  "https://www.elcato.org/las-exenciones-fiscales-no-les-dieron-la-victoria-los-republicanos-en-las-elecciones-intermedias"
  ],
  "https://letraslibres.com/politica/feed/": [],
  "https://letraslibres.com/historia/feed/": [],
@@ -852,8 +856,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
-  "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
   "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
   "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
   "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
@@ -1451,7 +1453,9 @@
   "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
   "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
   "https://www.theguardian.com/uk-news/2026/nov/13/digested-week-liz-truss-cenotaph",
-  "https://www.theguardian.com/uk-news/2026/nov/13/digested-week-liz-truss-cenotaph"
+  "https://www.theguardian.com/uk-news/2026/nov/13/digested-week-liz-truss-cenotaph",
+  "https://www.theguardian.com/commentisfree/2026/nov/13/reform-uk-government-wales-senedd-chaotic-record",
+  "https://www.theguardian.com/commentisfree/2026/nov/13/reform-uk-government-wales-senedd-chaotic-record"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
