@@ -133,18 +133,6 @@
   "https://www.theguardian.com/commentisfree/2026/oct/20/helen-haines-political-hate-speech-ntwnfb"
  ],
  "https://www.larepublica.co/rss": [
-  "https://www.larepublica.co/analisis/maximiliano-rodriguez-fernandez-3175730/un-poco-de-humanidad-4521802",
-  "https://www.larepublica.co/analisis/maximiliano-rodriguez-fernandez-3175730/un-poco-de-humanidad-4521802",
-  "https://www.larepublica.co/analisis/brigitte-baptiste-506149/carrizosa-complejo-4521807",
-  "https://www.larepublica.co/analisis/brigitte-baptiste-506149/carrizosa-complejo-4521807",
-  "https://www.larepublica.co/analisis/claudia-dulce-romero-3553438/desarrollar-liderazgos-con-premisas-falsas-4522034",
-  "https://www.larepublica.co/analisis/claudia-dulce-romero-3553438/desarrollar-liderazgos-con-premisas-falsas-4522034",
-  "https://www.larepublica.co/analisis/maritza-aristizabal-quintero-2969657/nos-amenazan-pero-no-nos-silencian-4521787",
-  "https://www.larepublica.co/analisis/maritza-aristizabal-quintero-2969657/nos-amenazan-pero-no-nos-silencian-4521787",
-  "https://www.larepublica.co/opinion/editorial/los-temas-clave-en-la-agenda-de-los-gremios-4521343",
-  "https://www.larepublica.co/opinion/editorial/los-temas-clave-en-la-agenda-de-los-gremios-4521343",
-  "https://www.larepublica.co/finanzas/entrevista-con-alejandro-gomez-presidente-del-consejo-directivo-de-asofiduciarias-y-presidente-de-aval-fiduciaria-4521838",
-  "https://www.larepublica.co/finanzas/entrevista-con-alejandro-gomez-presidente-del-consejo-directivo-de-asofiduciarias-y-presidente-de-aval-fiduciaria-4521838",
   "https://www.larepublica.co/analisis/luis-guillermo-velez-cabrera-402232/indignidad-4521811",
   "https://www.larepublica.co/analisis/luis-guillermo-velez-cabrera-402232/indignidad-4521811",
   "https://www.larepublica.co/finanzas/este-es-el-interes-maximo-que-le-pueden-cobrar-segun-el-tipo-de-credito-4521973",
@@ -732,7 +720,19 @@
   "https://www.larepublica.co/economia/gobierno-y-fedecafe-firmaron-la-renovacion-de-los-contratos-de-administracion-de-recursos-4525188",
   "https://www.larepublica.co/economia/gobierno-y-fedecafe-firmaron-la-renovacion-de-los-contratos-de-administracion-de-recursos-4525188",
   "https://www.larepublica.co/economia/nuevos-lideres-sindicales-y-empresariales-estrenaran-la-mesa-del-minimo-para-2027-4525198",
-  "https://www.larepublica.co/economia/nuevos-lideres-sindicales-y-empresariales-estrenaran-la-mesa-del-minimo-para-2027-4525198"
+  "https://www.larepublica.co/economia/nuevos-lideres-sindicales-y-empresariales-estrenaran-la-mesa-del-minimo-para-2027-4525198",
+  "https://www.larepublica.co/economia/uribe-y-congresistas-del-centro-democratico-se-reunen-con-restrepo-para-estudiar-la-tributaria-4525205",
+  "https://www.larepublica.co/economia/uribe-y-congresistas-del-centro-democratico-se-reunen-con-restrepo-para-estudiar-la-tributaria-4525205",
+  "https://www.larepublica.co/globoeconomia/italia-multo-con-us-887-millones-a-meta-por-acceso-a-datos-de-usuarios-de-android-4525212",
+  "https://www.larepublica.co/globoeconomia/italia-multo-con-us-887-millones-a-meta-por-acceso-a-datos-de-usuarios-de-android-4525212",
+  "https://www.larepublica.co/economia/la-sic-archivo-caso-contra-ecopetrol-que-exponia-al-grupo-a-multa-de-525-271-millones-4525210",
+  "https://www.larepublica.co/economia/la-sic-archivo-caso-contra-ecopetrol-que-exponia-al-grupo-a-multa-de-525-271-millones-4525210",
+  "https://www.larepublica.co/globoeconomia/leon-xiv-corono-a-la-virgen-inmaculada-de-chiclayo-y-envio-un-mensaje-frente-a-la-violencia-4525215",
+  "https://www.larepublica.co/globoeconomia/leon-xiv-corono-a-la-virgen-inmaculada-de-chiclayo-y-envio-un-mensaje-frente-a-la-violencia-4525215",
+  "https://www.larepublica.co/economia/fondes-formaliza-34-000-millones-para-la-prefactibilidad-de-la-linea-4-del-metro-4525218",
+  "https://www.larepublica.co/economia/fondes-formaliza-34-000-millones-para-la-prefactibilidad-de-la-linea-4-del-metro-4525218",
+  "https://www.larepublica.co/internet-economy/las-franquicias-del-cine-se-meten-en-los-celulares-4525228",
+  "https://www.larepublica.co/internet-economy/las-franquicias-del-cine-se-meten-en-los-celulares-4525228"
  ],
  "https://www.elcato.org/rss.xml": [
   "65066 at https://www.elcato.org",
@@ -860,8 +860,6 @@
   "https://razonpublica.com/?p=72711"
  ],
  "https://www.theguardian.com/politics/rss": [
-  "https://www.theguardian.com/commentisfree/picture/2026/oct/26/be-ready-campaign-aims-to-encourage-frighten-citizens-into-preparing-for-disaster",
-  "https://www.theguardian.com/commentisfree/picture/2026/oct/26/be-ready-campaign-aims-to-encourage-frighten-citizens-into-preparing-for-disaster",
   "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
   "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
   "https://www.theguardian.com/lifeandstyle/picture/2026/oct/26/edith-pritchett-week-in-venn-diagrams-cartoon-trump-staff-heathrow-airport-renationalise-water",
@@ -1459,7 +1457,9 @@
   "https://www.theguardian.com/commentisfree/picture/2026/nov/14/madeline-horwath-complexity-modern-politics-cartoon",
   "https://www.theguardian.com/commentisfree/picture/2026/nov/14/madeline-horwath-complexity-modern-politics-cartoon",
   "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-  "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp"
+  "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+  "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+  "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy"
  ],
  "https://letraslibres.com/feed/": [
   "https://letraslibres.com/?p=162282",
